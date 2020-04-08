@@ -1,0 +1,7 @@
+{
+  "name": "gebeden-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
