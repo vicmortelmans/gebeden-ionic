@@ -1,0 +1,31 @@
+{
+    "title": "Gebeden",
+    "category": [
+        {
+            "title": "Drie-eenheid",
+            "prayer": [
+                {
+                    "title": "Akte van berouw",
+                    "presentation": ["berouw-1.html", "berouw-2.html"]
+                },
+                {
+                    "title": "Akte van liefde",
+                    "presentation": ["liefde-1.html", "liefde-2.html"]
+                }
+            ]
+        },
+        {
+            "title": "Maagd Maria",
+            "prayer": [
+                {
+                    "title": "De Engel des Heren",
+                    "presentation": ["engel-1.html", "engel-2.html"]
+                },
+                {
+                    "title": "Litanie van Loreto",
+                    "presentation": ["litanievanloreto-1.html", "litanievanloreto-2.html"]
+                }
+            ]
+        }
+    ]
+}
