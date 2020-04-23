@@ -3,46 +3,56 @@ import './Home.css';
 import structure from '../data/structure.json'
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext, DotGroup } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
+import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, AccordionItemPanel, } from 'react-accessible-accordion';
+import 'react-accessible-accordion/dist/fancy-example.css';
 
 const Home: React.FC = () => {
   return (
     <>
-    
-      <CarouselProvider
-        naturalSlideWidth={1}
-        naturalSlideHeight={1}
-        totalSlides={3}
-        isIntrinsicHeight={true}
-      >
-        <p>test</p>
-        <Slider>
-          <Slide index={0} style={{backgroundColor: "blue"}}>I am the first Slide.</Slide>
-          <Slide index={1} style={{backgroundColor: "red"}}>I am the second Slide.</Slide>
-          <Slide index={2} style={{backgroundColor: "green"}}>I am the third Slide.</Slide>
-        </Slider>
-        <ButtonBack>Back</ButtonBack>
-        <ButtonNext>Next</ButtonNext>
-        <DotGroup/>
-        <p>test</p>
-      </CarouselProvider>
-      <p>second:</p>
-      <CarouselProvider
-        naturalSlideWidth={1}
-        naturalSlideHeight={1}
-        totalSlides={3}
-        isIntrinsicHeight={true}
-      >
-        <p>test</p>
-        <Slider>
-          <Slide index={0} style={{backgroundColor: "blue"}}>I am the first Slide.</Slide>
-          <Slide index={1} style={{backgroundColor: "red"}}>I am the second Slide.</Slide>
-          <Slide index={2} style={{backgroundColor: "green"}}>I am the third Slide.</Slide>
-        </Slider>
-        <ButtonBack>Back</ButtonBack>
-        <ButtonNext>Next</ButtonNext>
-        <DotGroup/>
-        <p>test</p>
-      </CarouselProvider>
+      <h1>{structure.title}</h1> 
+      <Accordion>
+        {structure.categories.map((category) => (
+          <AccordionItem>
+            <AccordionItemHeading>
+              <AccordionItemButton>
+                {category.title}
+              </AccordionItemButton>
+            </AccordionItemHeading>
+            <AccordionItemPanel>
+              <Accordion>
+                {category.prayers.map((prayer) => (
+                  <AccordionItem>
+                    <AccordionItemHeading>
+                      <AccordionItemButton>
+                        {prayer.title}
+                      </AccordionItemButton>
+                    </AccordionItemHeading>
+                    <AccordionItemPanel>
+                      <CarouselProvider
+                        naturalSlideWidth={1}
+                        naturalSlideHeight={1}
+                        totalSlides={prayer.presentations.length}
+                        isIntrinsicHeight={true}
+                      >
+                        <Slider>
+                          {prayer.presentations.map((presentation, index) => (
+                            <Slide index={index}>
+                              {presentation}
+                            </Slide>
+                          ))}
+                        </Slider>
+                        <ButtonBack>Back</ButtonBack>
+                        <ButtonNext>Next</ButtonNext>
+                        <DotGroup/>
+                      </CarouselProvider>
+                    </AccordionItemPanel>
+                  </AccordionItem>
+                ))}
+              </Accordion>
+            </AccordionItemPanel>
+          </AccordionItem>
+        ))}
+      </Accordion>
     </>
   );
 };
