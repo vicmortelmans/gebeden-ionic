@@ -5,6 +5,7 @@ import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext, DotGroup } fro
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, AccordionItemPanel, } from 'react-accessible-accordion';
 import 'react-accessible-accordion/dist/fancy-example.css';
+import ReactMarkdown from 'react-markdown';
 
 const Home: React.FC = () => {
   return (
@@ -18,7 +19,7 @@ const Home: React.FC = () => {
                 {category.title}
               </AccordionItemButton>
             </AccordionItemHeading>
-            <AccordionItemPanel>
+            <AccordionItemPanel style={{padding: 0}}>
               <Accordion>
                 {category.prayers.map((prayer) => (
                   <AccordionItem>
@@ -37,7 +38,7 @@ const Home: React.FC = () => {
                         <Slider>
                           {prayer.presentations.map((presentation, index) => (
                             <Slide index={index}>
-                              {presentation}
+                              <ReactMarkdown source={presentation.replace(/\\n/g, "\n")} escapeHtml={false}/>
                             </Slide>
                           ))}
                         </Slider>
