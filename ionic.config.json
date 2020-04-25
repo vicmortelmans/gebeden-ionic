@@ -1,7 +1,11 @@
 {
-  "name": "gebeden-ionic",
+  "name": "Katholieke Gebeden",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react"
+  "type": "react",
+  "hooks": {
+    "build:before": "./scripts/build-before.js",
+    "serve:before": "./scripts/build-before.js"
+  }
 }
