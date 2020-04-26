@@ -6,11 +6,11 @@
             "prayers": [ 
                 {
                     "title": "Akte van berouw",
-                    "presentations": ["Deus meus,\\nex toto corde pænitet me ómnium meórum peccatórum,\\néaque detéstor,\\nquia peccándo,\\nnon solum pœnas a te iuste statútas proméritus sum,\\nsed præsértim quia offéndi te,\\nsummum bonum, ac dignum qui super ómnia diligáris.\\nÍdeo fírmiter propóno,\\nadiuvánte grátia tua,\\nde cétero me non peccatúrum\\npeccandíque occasiónes próximas fugitúrum.\n\nAmen.\n ", "Mijn Heer en mijn God,\\nhet is mij leed dat ik tegen uw opperste majesteit misdaan heb.\\nIk verfoei al mijn zonden,\\nniet alleen omdat ik uw straffen heb verdiend;\\nmaar vooral omdat ze U mishagen,\\ndie oneindig volmaakt en alle liefde waardig zijt.\\nIk maak het vast voornemen,\\nmijn leven te beteren\\nen de gelegenheden tot zonde te vluchten.\\nIn dit berouw wil ik leven en sterven.\n\nAmen.\n"]
+                    "presentations": ["berouw-1.md", "berouw-2.md"]
                 },
                 {
                     "title": "Akte van liefde",
-                    "presentations": ["### Kyrie\n\n![](images/mass-iv-kyrie.jpg)\n\n<audio src=\"https://storage.googleapis.com/kyriale/djc_04_kyrie_mp3_1.mp3\" preload=\"none\" controls=\"controls\"></audio>\n\n### Sanctus\n\n![](images/mass-iv-sanctus.jpg)\n\n<audio src=\"https://storage.googleapis.com/kyriale/djc_04_sanctus_mp3_1.mp3\" preload=\"none\" controls=\"controls\"></audio>\n\n### Agnus Dei\n\n![](images/mass-iv-agnus.jpg)\n\n<audio src=\"https://storage.googleapis.com/kyriale/djc_04_agnus_mp3_1.mp3\" preload=\"none\" controls=\"controls\"></audio>\n", "liefde-2.html"]
+                    "presentations": ["mass-xv-kyrie.md", "mass-xv-gloria.md"]
                 }
             ]
         },
@@ -19,11 +19,11 @@
             "prayers": [
                 {
                     "title": "De Engel des Heren",
-                    "presentations": ["engel-1.html", "engel-2.html"]
+                    "presentations": ["engel-1.md", "engel-2.md"]
                 },
                 {
                     "title": "Litanie van Loreto",
-                    "presentations": ["litanievanloreto-1.html", "litanievanloreto-2.html"]
+                    "presentations": ["litanievanloreto-1.md", "litanievanloreto-2.md"]
                 }
             ]
         }
