@@ -1,1 +1,1 @@
-![](images/hy--te_joseph_celebrent--solesmes.png)
+![](./hy--te_joseph_celebrent--solesmes.png)

@@ -14,5 +14,5 @@ beatum Joannem Baptistam, sanctos Apostolos Petrum et Paulum, omnes
 Sanctos, et vos, fratres, orare pro me ad Dominum Deum nostrum.
 
 **V**Misereatur nostri \[tui\] omnipotens Deus, et dimissis peccatis
-nostris \[tuis\], perducat nos \[te\] ad vitam æternam.\
+nostris \[tuis\], perducat nos \[te\] ad vitam æternam.  
 **R**Amen.

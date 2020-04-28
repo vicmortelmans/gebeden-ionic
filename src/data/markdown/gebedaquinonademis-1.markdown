@@ -4,15 +4,15 @@ dignatióne misericórdiæ tuæ satiáre dignátus es pretióso Córpore et
 Sánguine Filii tui Dómini nostri Jesu Christi.
 
 Et precor, ut hæc sancta commúnio non sit mihi reátus ad pœnam, sed
-intercéssio salutáris ad véniam.\
-Sit mihi armatúra fídei et scutum bonæ voluntátis.\
-Sit vitiórum meórum evacuátio,\
-concupiscéntiæ et libídinis exterminátio,\
-caritátis et patiéntiæ,\
-humilitátis et obœdiéntiæ,\
-omniúmque virtútum augmentátio:\
+intercéssio salutáris ad véniam.  
+Sit mihi armatúra fídei et scutum bonæ voluntátis.  
+Sit vitiórum meórum evacuátio,  
+concupiscéntiæ et libídinis exterminátio,  
+caritátis et patiéntiæ,  
+humilitátis et obœdiéntiæ,  
+omniúmque virtútum augmentátio:  
 contra insídias inimicórum ómnium, tam visibílium quam invisibílium,
-firma defénsio:\
+firma defénsio:  
 mótuum meórum, tam carnálium quam spiritálium, perfécta quietátio: in te
 uno ac vero Deo firma adhǽsio; atque finis mei felix consummátio.
 

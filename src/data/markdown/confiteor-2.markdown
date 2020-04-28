@@ -16,5 +16,5 @@ Heilige Apostelen Petrus en Paulus, alle heiligen en u, broeders, voor
 mij te bidden tot de Heer, onze God.
 
 **V**Moge de almachtige God zich over ons \[u\] ontfermen, onze \[uw\]
-zonden vergeven en ons \[u\] geleiden tot eeuwig leven.\
+zonden vergeven en ons \[u\] geleiden tot eeuwig leven.  
 **R**Amen.

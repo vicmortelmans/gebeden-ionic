@@ -1,1 +1,1 @@
-![m. naar Mozarabische psalmtoon IV](images/0nze-vader-mozarabische-psalmtoon-iv.png)
+![m. naar Mozarabische psalmtoon IV](./0nze-vader-mozarabische-psalmtoon-iv.png)

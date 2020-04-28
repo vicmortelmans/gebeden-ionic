@@ -1,16 +1,16 @@
 Omnípotens sempitérne Deus, ecce, accédo ad sacraméntum unigéniti Fílii
-tui, Dómini nostri Jesu Christi;\
-accédo tamquam infírmus ad médicum vitæ,\
-immúndus ad fontem misericórdiæ,\
-cæcus ad lumen claritátis ætérnæ,\
+tui, Dómini nostri Jesu Christi;  
+accédo tamquam infírmus ad médicum vitæ,  
+immúndus ad fontem misericórdiæ,  
+cæcus ad lumen claritátis ætérnæ,  
 pauper et egénus ad Dóminum cœli et terræ.
 
-Rogo ergo imménsæ largitátis tuæ abundántiam,\
-quaténus meam curáre dignéris infirmitátem,\
-laváre fœditátem,\
-illumináre cæcitátem,\
-ditáre paupertátem,\
-vestire nuditátem;\
+Rogo ergo imménsæ largitátis tuæ abundántiam,  
+quaténus meam curáre dignéris infirmitátem,  
+laváre fœditátem,  
+illumináre cæcitátem,  
+ditáre paupertátem,  
+vestire nuditátem;  
 ut panem Angelórum, Regem regum et Dóminum dominántium, tanta suscípiam
 reveréntia et humilitáte, tanta contritióne et devotióne, tanta puritáte
 et fide, tali propósito et intentióne, sicut expédit salúti ánimæ meæ.

@@ -1,7 +1,7 @@
-**V**De Heer zij met u.\
-**R**En met uw geest.\
-**V**Begin van het heilig Evangelie volgens Johannes.\
-**R**Lof zij U, Christus.\
+**V**De Heer zij met u.  
+**R**En met uw geest.  
+**V**Begin van het heilig Evangelie volgens Johannes.  
+**R**Lof zij U, Christus.  
 **V**In het begin was het Woord, en het Woord was bij God, en het Woord
 was God. Dit was in het begin bij God. Alles is door Hem geworden, en
 zonder Hem is er niets geworden van hetgeen er geworden is. In Hem was
@@ -19,5 +19,5 @@ zij werden niet uit bloed, of uit lust van het vlees, of uit de wil van
 een man, maar uit God geboren. EN HET WOORD IS VLEES GEWORDEN, en Het
 heeft onder ons gewoond. En wij hebben zijn heerlijkheid aanschouwd, een
 heerlijkheid als van de Enig­geborene van de Vader, vol van genade en
-waar­heid.\
+waar­heid.  
 **R**Wij danken U, God.

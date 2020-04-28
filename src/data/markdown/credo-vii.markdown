@@ -1,3 +1,3 @@
 ### Credo VII
 
-![](images/credo-vii.jpg)
+![](./credo-vii.jpg)

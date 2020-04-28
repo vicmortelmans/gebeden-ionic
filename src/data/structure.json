@@ -6,11 +6,11 @@
             "prayers": [ 
                 {
                     "title": "Akte van berouw",
-                    "presentations": ["berouw-1.md", "berouw-2.md"]
+                    "presentations": ["berouw-1.markdown", "berouw-2.markdown"]
                 },
                 {
                     "title": "Akte van liefde",
-                    "presentations": ["mass-xv-kyrie.md", "mass-xv-gloria.md"]
+                    "presentations": ["mass-xv-kyrie.markdown", "mass-xv-gloria.markdown"]
                 }
             ]
         },
@@ -19,11 +19,11 @@
             "prayers": [
                 {
                     "title": "De Engel des Heren",
-                    "presentations": ["engel-1.md", "engel-2.md"]
+                    "presentations": ["engel-1.markdown", "engel-2.markdown"]
                 },
                 {
                     "title": "Litanie van Loreto",
-                    "presentations": ["litanievanloreto-1.md", "litanievanloreto-2.md"]
+                    "presentations": ["litanievanloreto-1.markdown", "litanievanloreto-2.markdown"]
                 }
             ]
         }
