@@ -3,9 +3,5 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "react",
-  "hooks": {
-    "build:before": "./scripts/build-before.js",
-    "serve:before": "./scripts/build-before.js"
-  }
+  "type": "react"
 }

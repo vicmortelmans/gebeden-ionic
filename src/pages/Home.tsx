@@ -1,11 +1,12 @@
 import React from 'react'; 
 import { IonContent } from '@ionic/react';
 import ReactMarkdownFromAsset from '../components/ReactMarkdownFromAsset'
-import structure from '../data/structure.json'
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext, DotGroup } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, AccordionItemPanel, } from 'react-accessible-accordion';
 import 'react-accessible-accordion/dist/fancy-example.css';
+import { useMediaQuery } from 'react-responsive'; 
+import structure from '../data/structure.json'
 import './Home.css';
 
 // utilitary function to create a dictionary of packaged files 
@@ -28,6 +29,8 @@ importAll(
 );
 
 function Home () {
+
+  const isMobile = useMediaQuery({ query: '(max-width: 800px)' });
  
   return (
     <IonContent>
@@ -54,6 +57,8 @@ function Home () {
                         naturalSlideWidth={1}
                         naturalSlideHeight={1}
                         totalSlides={prayer.presentations.length}
+                        visibleSlides={isMobile ? 1 : Math.max(2, prayer.presentations.length)}
+                        infinite={true}
                         isIntrinsicHeight={true}
                       >
                         <Slider>
