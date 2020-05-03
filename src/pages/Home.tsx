@@ -4,16 +4,11 @@ import ReactMarkdownFromAsset from '../components/ReactMarkdownFromAsset'
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext, DotGroup } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, AccordionItemPanel, } from 'react-accessible-accordion';
-import 'react-accessible-accordion/dist/fancy-example.css';
+import './Accordion.css';
 import { useMediaQuery } from 'react-responsive'; 
+import { importAll, fitLayout, randomBackground } from './Lib'
 import structure from '../data/structure.json'
 import './Home.css';
-
-// utilitary function to create a dictionary of packaged files 
-// based on the output of require.context()
-const importAll = (r: any, cache: {[key: string]: string}) => r.keys().forEach(
-  (key: string) => cache[key] = r(key)
-);
 
 // create a dictionary of packaged markdownfiles, by './<source filename>'
 const markdownFiles: {[key: string]: string} = {};
@@ -24,31 +19,48 @@ importAll(
 // create a dictionary of packaged image files, by './<source filename>'
 const imageFiles: {[key: string]: string} = {};
 importAll(
-  require.context('../images/', true, /\.(png|gif|jpg)$/),
+  require.context('../images/scores/', true, /\.(png|gif|jpg)$/),
   imageFiles
 );
+const bgImage = randomBackground();
 
 function Home () {
 
   const isMobile = useMediaQuery({ query: '(max-width: 800px)' });
- 
+
+  React.useEffect(() => {
+    function handleResize() {
+      fitLayout(bgImage);
+    }
+    fitLayout(bgImage);
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    }
+    
+  }, []);
+
   return (
     <IonContent>
-      <h1>{structure.title}</h1> 
-      <Accordion>
+      <header className='background-span'>{structure.title}</header> 
+      {console.log("RENDERING")}
+      <Accordion 
+        allowZeroExpanded={true} 
+        className='category'
+        >
         {structure.categories.map((category) => (
           <AccordionItem>
             <AccordionItemHeading>
-              <AccordionItemButton>
+              <AccordionItemButton className='background-span accordion-button'>
                 {category.title}
               </AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel style={{padding: 0}}>
-              <Accordion>
+              <Accordion allowZeroExpanded={true} className='prayer'>
                 {category.prayers.map((prayer) => (
                   <AccordionItem>
                     <AccordionItemHeading>
-                      <AccordionItemButton>
+                      <AccordionItemButton className='accordion-button prayer-button'>
                         {prayer.title}
                       </AccordionItemButton>
                     </AccordionItemHeading>

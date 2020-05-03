@@ -1,0 +1,51 @@
+/**
+* ----------------------------------------------
+* Demo styles
+* ----------------------------------------------
+**/
+.accordion {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.accordion__item + .accordion__item {
+    border-top: 1px solid #b6b6b6;
+}
+
+.accordion-button {
+    cursor: pointer;
+    padding-left: 16px;
+    width: 100%;
+    outline: none;
+}
+
+.prayer-button {
+    background-color: white;
+    color: #727272;
+    line-height: 48px;
+    height: 48px;
+    font-size: 16px;
+}
+
+.accordion__button:hover {
+    background-color: #ddd;
+}
+
+.accordion__panel {
+    padding: 20px;
+/*    animation: fadein 1.35s ease-in;*/
+}
+
+/* -------------------------------------------------- */
+/* ---------------- Animation part ------------------ */
+/* -------------------------------------------------- */
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
