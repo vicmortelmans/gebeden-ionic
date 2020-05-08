@@ -65,7 +65,7 @@ export const fitLayout = (bgImage: any) => {
         bgScale = bodyH / bgImage.h;
         bgH = bodyH;
         bgX = - 1/2 * (bgScale * bgImage.w - bodyW);
-        bgSize = 'auto' + ' ' + bgH + 'px';
+        bgSize = 'auto ' + bgH + 'px';
     } else { // like e.g. on a widescreen monitor
         bgScale = bodyW / bgImage.w;
         bgW = bodyW;
@@ -79,4 +79,18 @@ export const fitLayout = (bgImage: any) => {
         categories[i].style.backgroundPositionX = bgX + 'px';
         categories[i].style.backgroundPositionY = (bgY - i * rowH) + 'px';
     }
+}
+
+export const slugify = (str: string) => {
+    str = str.replace(/^\s+|\s+$/g, ''); // trim
+    str = str.toLowerCase();
+    var from = "ãàáäâẽèéëêìíïîõòóöôùúüûñç·/_,:;";
+    var to = "aaaaaeeeeeiiiiooooouuuunc------";
+    for (var i = 0, l = from.length; i < l; i++) {
+        str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+    }
+    str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
+        .replace(/\s+/g, '-') // collapse whitespace and replace by -
+        .replace(/-+/g, '-'); // collapse dashes
+    return str;
 }
