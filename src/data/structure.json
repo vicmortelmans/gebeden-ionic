@@ -5,94 +5,100 @@
          "prayers": [
             {
                "presentations": [
-                  "alma-redemptoris-mater-1",
-                  "alma-redemptoris-mater-2",
-                  "alma-redemptoris-mater-3"
+                  "alma-redemptoris-mater-score",
+                  "alma-redemptoris-mater-nl",
+                  "alma-redemptoris-mater-la"
                ],
                "id": "alma-redemptoris-mater",
                "title": "Alma Redemptoris Mater"
             },
             {
                "presentations": [
-                  "sub-tuum-præsidium-1",
-                  "sub-tuum-præsidium-2",
-                  "sub-tuum-præsidium-3"
+                  "sub-tuum-præsidium-score",
+                  "sub-tuum-præsidium-nl",
+                  "sub-tuum-præsidium-la"
                ],
                "id": "sub-tuum-præsidium",
                "title": "Sub Tuum Præsidium"
             },
             {
                "presentations": [
-                  "ave-regina-cælorum-1",
-                  "ave-regina-cælorum-2",
-                  "ave-regina-cælorum-3"
+                  "ave-regina-cælorum-score",
+                  "ave-regina-cælorum-nl",
+                  "ave-regina-cælorum-la"
                ],
                "id": "ave-regina-cælorum",
                "title": "Ave Regina Cælorum"
             },
             {
                "presentations": [
-                  "regina-cæli-1",
-                  "regina-cæli-2",
-                  "regina-cæli-3"
+                  "regina-cæli-score",
+                  "regina-cæli-nl",
+                  "regina-cæli-la"
                ],
                "id": "regina-cæli",
                "title": "Regina Cæli"
             },
             {
                "presentations": [
-                  "salve-regina-1",
-                  "salve-regina-2",
-                  "salve-regina-3"
+                  "salve-regina-score",
+                  "salve-regina-nl",
+                  "salve-regina-la"
                ],
                "id": "salve-regina",
                "title": "Salve Regina"
             },
             {
                "presentations": [
-                  "pange-lingua-1",
-                  "pange-lingua-2"
+                  "pange-lingua-score",
+                  "pange-lingua-nl",
+                  "pange-lingua-la"
                ],
                "id": "pange-lingua",
                "title": "Pange Lingua (Tantum Ergo)"
             },
             {
                "presentations": [
-                  "adoro-te-devote-1",
-                  "adoro-te-devote-2"
+                  "adoro-te-devote-score",
+                  "adoro-te-devote-nl",
+                  "adoro-te-devote-la"
                ],
                "id": "adoro-te-devote",
                "title": "Adoro te devote"
             },
             {
                "presentations": [
-                  "veni-creator-spiritus-1",
-                  "veni-creator-spiritus-2"
+                  "veni-creator-spiritus-score",
+                  "veni-creator-spiritus-nl",
+                  "veni-creator-spiritus-la"
                ],
                "id": "veni-creator-spiritus",
-               "title": "Veni Creator Spiritus"
+               "title": "Veni Creátor Spíritus"
             },
             {
                "presentations": [
-                  "te-ioseph-celebrent-1",
-                  "te-ioseph-celebrent-2"
+                  "te-ioseph-celebrent-score",
+                  "te-ioseph-celebrent-nl",
+                  "te-ioseph-celebrent-la"
                ],
                "id": "te-ioseph-celebrent",
                "title": "Te Ioseph celebrent"
             },
             {
                "presentations": [
-                  "ave-maria-1",
-                  "ave-maria-2",
-                  "ave-maria-3"
+                  "ave-maria-score",
+                  "ave-maria-nl-nl",
+                  "ave-maria-nl-be",
+                  "ave-maria-la"
                ],
                "id": "ave-maria",
                "title": "Ave Maria"
             },
             {
                "presentations": [
-                  "pater-noster-1",
-                  "pater-noster-2"
+                  "pater-noster-score",
+                  "pater-noster-nl",
+                  "pater-noster-la"
                ],
                "id": "pater-noster",
                "title": "Pater Noster"
@@ -105,16 +111,18 @@
          "prayers": [
             {
                "presentations": [
-                  "kyriale-asperges-me-1"
+                  "asperges-me-score",
+                  "asperges-me-nl"
                ],
-               "id": "kyriale-asperges-me",
+               "id": "asperges-me",
                "title": "Asperges me"
             },
             {
                "presentations": [
-                  "kyriale-vidi-aquam-1"
+                  "vidi-aquam-score",
+                  "vidi-aquam-nl"
                ],
-               "id": "kyriale-vidi-aquam",
+               "id": "vidi-aquam",
                "title": "Vidi aquam"
             },
             {
@@ -279,76 +287,78 @@
          "prayers": [
             {
                "presentations": [
-                  "asperges-me-1",
-                  "asperges-me-2",
-                  "asperges-me-3"
+                  "asperges-me-la",
+                  "asperges-me-nl",
+                  "asperges-me-score"
                ],
                "id": "asperges-me",
                "title": "Asperges me"
             },
             {
                "presentations": [
-                  "vidi-aquam-1",
-                  "vidi-aquam-2",
-                  "vidi-aquam-3"
+                  "vidi-aquam-la",
+                  "vidi-aquam-nl",
+                  "vidi-aquam-score"
                ],
                "id": "vidi-aquam",
                "title": "Vidi aquam"
             },
             {
                "presentations": [
-                  "ostende-nobis-1",
-                  "ostende-nobis-2"
+                  "ostende-nobis-la",
+                  "ostende-nobis-nl"
                ],
                "id": "ostende-nobis",
                "title": "Ostende nobis"
             },
             {
                "presentations": [
-                  "kruisteken-1",
-                  "kruisteken-2"
+                  "kruisteken-la",
+                  "kruisteken-nl",
+                  "kruisteken-score"
                ],
                "id": "kruisteken",
                "title": "Kruisteken"
             },
             {
                "presentations": [
-                  "introibo-1",
-                  "introibo-2"
+                  "introibo-la",
+                  "introibo-nl",
+                  "introibo-score"
                ],
                "id": "introibo",
                "title": "Introibo"
             },
             {
                "presentations": [
-                  "confiteor-1",
-                  "confiteor-2"
+                  "confiteor-la",
+                  "confiteor-nl"
                ],
                "id": "confiteor",
                "title": "Confiteor"
             },
             {
                "presentations": [
-                  "misericordiam-1",
-                  "misericordiam-2"
+                  "misericordiam-la",
+                  "misericordiam-nl"
                ],
                "id": "misericordiam",
                "title": "Misericordiam"
             },
             {
                "presentations": [
-                  "kyrie-1",
-                  "kyrie-2",
-                  "kyrie-3"
+                  "kyrie-la",
+                  "kyrie-nl",
+                  "kyrie-ref"
                ],
                "id": "lit-kyrie",
                "title": "Kyrie"
             },
             {
                "presentations": [
-                  "gloria-1",
-                  "gloria-2",
-                  "gloria-3"
+                  "gloria-la",
+                  "gloria-nl",
+                  "gloria-ref"
                ],
                "id": "lit-gloria",
                "title": "Gloria"
@@ -362,87 +372,88 @@
             },
             {
                "presentations": [
-                  "twaalfartikelenvanhetgeloof-1",
-                  "twaalfartikelenvanhetgeloof-2"
+                  "twaalfartikelenvanhetgeloof-la",
+                  "twaalfartikelenvanhetgeloof-nl"
                ],
                "id": "twaalfartikelenvanhetgeloof",
                "title": "Credo van de apostelen"
             },
             {
                "presentations": [
-                  "credo-1",
-                  "credo-2",
-                  "credo-3"
+                  "credo-la",
+                  "credo-nl",
+                  "credo-ref"
                ],
                "id": "credo",
                "title": "Credo"
             },
             {
                "presentations": [
-                  "offertorium-1",
-                  "offertorium-2"
+                  "offertorium-la",
+                  "offertorium-nl"
                ],
                "id": "offertorium",
                "title": "Offertorium"
             },
             {
                "presentations": [
-                  "sursum-corda-1",
-                  "sursum-corda-2"
+                  "sursum-corda-la",
+                  "sursum-corda-nl"
                ],
                "id": "sursum-corda",
                "title": "Sursum corda"
             },
             {
                "presentations": [
-                  "sanctus-1",
-                  "sanctus-2",
-                  "sanctus-3"
+                  "sanctus-la",
+                  "sanctus-nl",
+                  "sanctus-ref"
                ],
                "id": "lit-sanctus",
                "title": "Sanctus"
             },
             {
                "presentations": [
-                  "mysterium-fidei-1",
-                  "mysterium-fidei-2"
+                  "mysterium-fidei-la",
+                  "mysterium-fidei-nl"
                ],
                "id": "mysterium-fidei",
                "title": "Mysterium fidei"
             },
             {
                "presentations": [
-                  "per-ipsum-1",
-                  "per-ipsum-2"
+                  "per-ipsum-la",
+                  "per-ipsum-nl"
                ],
                "id": "per-ipsum",
                "title": "Per Ipsum"
             },
             {
                "presentations": [
-                  "onzevader-1",
-                  "onzevader-2",
-                  "pater-noster-1",
-                  "onzevader-3",
-                  "onzevader-4",
-                  "onzevader-5"
+                  "pater-noster-lit-la",
+                  "pater-noster-lit-nl",
+                  "pater-noster-score",
+                  "pater-noster-score-pieters",
+                  "pater-noster-score-mozarab",
+                  "pater-noster-score-vandevelde"
                ],
                "id": "onzevader",
                "title": "Onze Vader"
             },
             {
                "presentations": [
-                  "agnus-dei-1",
-                  "agnus-dei-2",
-                  "agnus-dei-3"
+                  "agnus-dei-la",
+                  "agnus-dei-nl",
+                  "agnus-dei-ref"
                ],
                "id": "agnus-dei",
                "title": "Agnus Dei"
             },
             {
                "presentations": [
-                  "ite-missa-est-1",
-                  "ite-missa-est-2"
+                  "ite-missa-est-la",
+                  "ite-missa-est-nl",
+                  "ite-missa-est-ref"
                ],
                "id": "ite-missa-est",
                "title": "Ite missa est"
@@ -487,35 +498,39 @@
             },
             {
                "presentations": [
-                  "berouw-1",
-                  "berouw-2"
-               ],
-               "id": "berouw",
-               "title": "Akte van berouw"
-            },
-            {
-               "presentations": [
-                  "liefde-1",
-                  "liefde-2"
-               ],
-               "id": "liefde",
-               "title": "Akte van liefde"
-            },
-            {
-               "presentations": [
-                  "hoop-1",
-                  "hoop-2"
-               ],
-               "id": "hoop",
-               "title": "Akte van hoop"
-            },
-            {
-               "presentations": [
-                  "geloof-1",
-                  "geloof-2"
+                  "geloof-la",
+                  "geloof-akte",
+                  "geloof-oefening"
                ],
                "id": "geloof",
-               "title": "Akte van geloof"
+               "title": "Geloof"
+            },
+            {
+               "presentations": [
+                  "hoop-la",
+                  "hoop-akte",
+                  "hoop-oefening"
+               ],
+               "id": "hoop",
+               "title": "Hoop"
+            },
+            {
+               "presentations": [
+                  "liefde-la",
+                  "liefde-akte",
+                  "liefde-oefening"
+               ],
+               "id": "liefde",
+               "title": "Liefde"
+            },
+            {
+               "presentations": [
+                  "berouw-la",
+                  "berouw-akte",
+                  "berouw-oefening"
+               ],
+               "id": "berouw",
+               "title": "Berouw"
             }
          ],
          "id": "drie-eenheid",
@@ -532,17 +547,18 @@
             },
             {
                "presentations": [
-                  "adorotedevote-1",
-                  "adorotedevote-2"
+                  "adoro-te-devote-la",
+                  "adoro-te-devote-nl",
+                  "adoro-te-devote-score"
                ],
-               "id": "adorotedevote",
+               "id": "adoro-te-devote",
                "title": "Adoro te devote"
             },
             {
                "presentations": [
-                  "pangelingua-1",
-                  "pange-lingua-2",
-                  "pange-lingua-3"
+                  "pange-lingua-la",
+                  "pange-lingua-nl",
+                  "pange-lingua-score"
                ],
                "id": "pangelingua",
                "title": "Pange, língua"
@@ -571,11 +587,12 @@
             },
             {
                "presentations": [
-                  "venicreator-1",
-                  "venicreator-2"
+                  "veni-creator-spiritus-la",
+                  "veni-creator-spiritus-nl",
+                  "veni-creator-spiritus-score"
                ],
-               "id": "venicreator",
-               "title": "Veni, Creátor"
+               "id": "veni-creator-spiritus",
+               "title": "Veni Creátor Spíritus"
             }
          ],
          "id": "heilige-geest",
@@ -647,8 +664,8 @@
          "prayers": [
             {
                "presentations": [
-                  "gebedjozef-1",
-                  "gebedjozef-2"
+                  "gebedjozef-la",
+                  "gebedjozef-nl"
                ],
                "id": "gebedjozef",
                "title": "Gebed tot Sint Jozef"
@@ -667,7 +684,7 @@
                   "gebedaquinovoordemis-2"
                ],
                "id": "gebedaquinovoordemis",
-               "title": "Gebed van Thomas van Aquino"
+               "title": "Gebed van Thomas van Aquino voor de Mis"
             },
             {
                "presentations": [
@@ -691,7 +708,7 @@
                   "gebedaquinonademis-2"
                ],
                "id": "gebedaquinonademis",
-               "title": "Gebed van Thomas van Aquino"
+               "title": "Gebed van Thomas van Aquino na de Mis"
             },
             {
                "presentations": [

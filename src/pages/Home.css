@@ -4,9 +4,8 @@ ion-content ion-toolbar {
 
 body {
   color: #333;
-  font-family: 'Roboto Light' !important;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 18px;
+  line-height: 24px;
 }
 
 .background-span {
@@ -14,10 +13,10 @@ body {
   border: none;
   color: white;
   font-size: 12pt;  /* css js */
-  font-weight: 400;
+  font-weight: bold;
   line-height: 48px;  /* css js */
   overflow: hidden;
-  padding-left: 16px;
+  padding-left: 18px;
   text-align: left;
 }
 
@@ -34,4 +33,18 @@ body {
 
 .button-next {
   right: 0px;
+}
+
+strong {
+  color: #C70039;
+  font-style: normal !important; 
+}
+
+p img {
+  width: 100%;
+  max-width: 500px;
+}
+
+ion-button {
+  margin: 0;
 }

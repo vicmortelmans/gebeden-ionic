@@ -1,1 +1,1 @@
-[Schriftlezingen van vandaag](https://www2.evangelizo.org/NL/gospel)
+[Schriftlezingen van vandaag](https://dagelijksevangelie.org/NL/gospel)

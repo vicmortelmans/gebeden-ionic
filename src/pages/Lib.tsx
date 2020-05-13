@@ -4,6 +4,8 @@ export const importAll = (r: any, cache: {[key: string]: string}) => r.keys().fo
   (key: string) => cache[key] = r(key)
 );
 
+// pick a ranodom background image
+// the files must be in src/images/backgrounds
 export const randomBackground = () => {
     // create a dictionary of packaged image files, by './<source filename>'
     const imageFiles: {[key: string]: string} = {};
@@ -26,7 +28,16 @@ export const randomBackground = () => {
         { file: './11.jpg', w: 1536, h: 1024 },
         { file: './12.jpg', w: 672, h: 448 },
         { file: './13.jpg', w: 1280, h: 960 },
-        { file: './14.jpg', w: 1341, h: 1159 }
+        { file: './14.jpg', w: 1341, h: 1159 },
+        { file: './15.jpg', w: 3000, h: 1996 },
+        { file: './16.jpg', w: 3000, h: 1994 },
+        { file: './17.jpg', w: 3000, h: 2015 },
+        { file: './18.jpg', w: 1280, h: 854 },
+        { file: './19.jpg', w: 3244, h: 2260 },
+        { file: './20.jpg', w: 3072, h: 2304 },
+        { file: './21.jpg', w: 2100, h: 1500 },
+        { file: './22.jpg', w: 2047, h: 1536 },
+        { file: './23.jpg', w: 1677, h: 1746 }
     ];
     // pick one randomly
     const bgImage = bgImages[Math.floor(Math.random() * bgImages.length)]; 
@@ -34,6 +45,7 @@ export const randomBackground = () => {
     return bgImage
 }
 
+// update DOM so the accordion items fit the page height
 export const fitLayout = (bgImage: any) => {
     let bodyH = window.innerHeight;
     let bodyW = window.innerWidth;
@@ -81,16 +93,26 @@ export const fitLayout = (bgImage: any) => {
     }
 }
 
-export const slugify = (str: string) => {
-    str = str.replace(/^\s+|\s+$/g, ''); // trim
-    str = str.toLowerCase();
-    var from = "ãàáäâẽèéëêìíïîõòóöôùúüûñç·/_,:;";
-    var to = "aaaaaeeeeeiiiiooooouuuunc------";
-    for (var i = 0, l = from.length; i < l; i++) {
-        str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+/**
+ * Truncate a string to the given length, breaking at word boundaries and adding an elipsis
+ * @param string str String to be truncated
+ * @param integer limit Max length of the string
+ * @return string
+ */
+export const truncate = function (str: string, limit: number) {
+    let bits, i;
+    bits = str.split('');
+    if (bits.length > limit) {
+        for (i = bits.length - 1; i > -1; --i) {
+            if (i > limit) {
+                bits.length = i;
+            }
+            else if (' ' === bits[i]) {
+                bits.length = i;
+                break;
+            }
+        }
+        bits.push('...');
     }
-    str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
-        .replace(/\s+/g, '-') // collapse whitespace and replace by -
-        .replace(/-+/g, '-'); // collapse dashes
-    return str;
-}
+    return bits.join('');
+};

@@ -1,9 +1,9 @@
 Memoráre, o piíssima Virgo María, non esse audítum a sǽculo, quem­quam
-ad tua recurréntem præsídia, tuam implorántem auxí­lia, tua pe­téntem
+ad tua recurréntem præsídia, tuam implorántem auxília, tua peténtem
 suffrágia esse de­relíctum.
 
-Ego, tali animátus confi­dén­tia ad te, Virgo Vírginum, Ma­ter, curro;
-ad te vénio; coram te ge­mens pec­cá­tor assísto.
+Ego, tali animátus confidéntia ad te, Virgo Vírginum, Mater, curro;
+ad te vénio; coram te gemens peccátor assísto.
 
-Noli, Ma­ter Verbi, ver­ba mea despícere, sed audi propítia et exáudi.
+Noli, Mater Verbi, verba mea despícere, sed audi propítia et exáudi.
 Amen.

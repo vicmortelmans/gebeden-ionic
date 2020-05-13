@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Old Standard TT';
+    src: url(../fonts/OldStandardTT-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Old Standard TT';
+    font-weight: bold;
+    src: url(../fonts/OldStandardTT-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Old Standard TT';
+    font-style: italic;
+    src: url(../fonts/OldStandardTT-Italic.ttf) format('truetype');
+}
+ 
+:root {
+  --ion-font-family: 'Old Standard TT';
+}

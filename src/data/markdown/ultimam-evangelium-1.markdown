@@ -1,8 +1,8 @@
-**V**Dominus vobiscum.  
-**R**Et cum spiritu tuo.  
-**V**Initium sancti Evangelii secundum Joannem.  
-**R**Gloria tibi, Domine.  
-**V**In principio erat Verbum et Verbum erat apud Deum, et Deus erat
+**℣** Dominus vobiscum.  
+**℟** Et cum spiritu tuo.  
+**℣** Initium sancti Evangelii secundum Joannem.  
+**℟** Gloria tibi, Domine.  
+**℣** In principio erat Verbum et Verbum erat apud Deum, et Deus erat
 Verbum. Hoc erat in principio apud Deum. Omnia per ipsum facta sunt, et
 sine ipso factum est nihil quod factum est; in ipso vita erat, et vita
 erat lux hominum; et lux in tenebris lucet, et tenebrae eam non
@@ -17,4 +17,4 @@ in nomine eius, qui non ex sanquinibus, neque ex voluntate viri, sed ex
 deo nati sunt. ET VERBUM CARO FACTUM EST et habitabit in nobis; et
 vidimus gloriam eius gloiram quasi Unigenti a Patre, plenum gratiae et
 veritatis.  
-**R**Deo gratias.
+**℟** Deo gratias.

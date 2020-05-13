@@ -8,23 +8,25 @@
     border-radius: 2px;
 }
 
-.accordion__item + .accordion__item {
+.prayer-accordion-item + .prayer-accordion-item {
     border-top: 1px solid #b6b6b6;
 }
 
 .accordion-button {
     cursor: pointer;
-    padding-left: 16px;
-    width: 100%;
+    font-weight: bold;
     outline: none;
+    overflow: hidden;
+    padding-left: 20px;
+    width: 100%;
 }
 
 .prayer-button {
     background-color: white;
     color: #727272;
-    line-height: 48px;
+    font-size: 18px;
     height: 48px;
-    font-size: 16px;
+    line-height: 48px;
 }
 
 .accordion__button:hover {
@@ -32,9 +34,13 @@
 }
 
 .accordion__panel {
-    padding: 20px;
     animation: fadein 0.35s ease-in;
+    padding: 10px; /* complementary with .slide padding */
     position: relative; /* to allow the back/next buttons to position in the margin */
+}
+
+.slide {
+    padding: 10px; /* complementary with .accordion__panel padding */
 }
 
 /* -------------------------------------------------- */

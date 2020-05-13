@@ -1,41 +1,44 @@
 import React, { useState, useEffect } from 'react';
 import './ReactMarkdownFromAsset.css';
 import ReactMarkdown from 'react-markdown';
-import PropTypes from "prop-types";
+const removeMd = require('remove-markdown');
 
-function ReactMarkdownFromAsset(props: any) {
+const ReactMarkdownFromAsset = React.memo((props: any) => {
 
   // state is the content of the markdown file
   const [markdown, setMarkdown] = useState("");
    
-  // fetch the content of the markdown file and store it as state
+  // effect to fetch the content of the markdown file and store it as state
+  // only runs once
   useEffect(() => {
     async function fetchMarkdown() {
       let markdownResponse = await fetch(props.transformMarkdownUri(props.markdownFile));
       let markdownText = await markdownResponse.text();
-      setMarkdown(markdownText.replace(/\\n/g, "\n"));
+      markdownText = markdownText.replace(/\\n/g, "\n");
+      setMarkdown(markdownText);
     }
     fetchMarkdown();
-  }, [props]);
+  }, [props]);  
+
+  // effect to return the plain text markdown to the parent, if requested
+  useEffect(() => {
+    if (props.getQuote) {
+      let quote = removeMd(markdown);
+      props.getQuote(quote);
+    }
+  }, [markdown, props]);
 
   return (
-    <ReactMarkdown 
-      key={props.key} 
-      transformImageUri={props.transformImageUri} 
-      source={markdown} 
-      escapeHtml={false}
-    />
+    <>
+      {markdown && 
+          <ReactMarkdown 
+            transformImageUri={props.transformImageUri} 
+            source={markdown} 
+            escapeHtml={false}
+          />
+      }
+    </>
   )
-}
-
-ReactMarkdownFromAsset.propTypes = {
-  // markdown source filename '<./source filename>'
-  markdownFile: PropTypes.string.isRequired, 
-  // function that turns '<./source filename>' into '<asset filename>' 
-  transformImageUri: PropTypes.func.isRequired,  
-  // function that turns '<./source filename>' into '<asset filename>' 
-  transformMarkdownUri: PropTypes.func.isRequired, 
-  key: PropTypes.any
-}
+});
 
 export default ReactMarkdownFromAsset;

@@ -195,8 +195,8 @@ Super omnes speciosa;
 Vale, o valde decora  
 Et pro nobis Christum exora.
 
-**V** Dignáre me laudáre te, Virgo sacrata  
-**R** Da mihi virtutem contra hostes tuos.
+**℣**  Dignáre me laudáre te, Virgo sacrata  
+**℟**  Da mihi virtutem contra hostes tuos.
 
 Oremus.  
 Concede, misericors Deus, fragilitati nostræ præsidium : ut, qui sanctæ
@@ -221,8 +221,8 @@ wonderschone Maagd.
 Vaarwel en bied uw hulpbetoon,  
 wees onze voorspraak bij uw Zoon.
 
-**V** Gedoog dat ik U love, heilige Maagd.  
-**R** Geef mij kracht tegen Uw vijanden.
+**℣**  Gedoog dat ik U love, heilige Maagd.  
+**℟**  Geef mij kracht tegen Uw vijanden.
 
 Laat ons bidden.  
 Barhartige God, verleen ons kracht in onze zwakheid, Opdat wij, die de
@@ -281,17 +281,17 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Regína cæli, lætáre, allelúia.   
-**R** Quia quem meruísti portáre, allelúia;   
-**V** Resurréxit, sicut dixit, allelúia;   
-**R** Ora pro nobis Deum, allelúia.   
-**V** Gaude et lætáre, Virgo Ma­ría, allelúia.   
-**R** Quia surréxit Dóminus vere, allelúia. Orémus. Deus, qui per
+**℣**  Regína cæli, lætáre, allelúia.   
+**℟**  Quia quem meruísti portáre, allelúia;   
+**℣**  Resurréxit, sicut dixit, allelúia;   
+**℟**  Ora pro nobis Deum, allelúia.   
+**℣**  Gaude et lætáre, Virgo Ma­ría, allelúia.   
+**℟**  Quia surréxit Dóminus vere, allelúia. Orémus. Deus, qui per
 re­sur­rec­tió­nem Fílii tui, Dómini nostri Iesu Chri­sti, mun­dum
 lætificáre di­gná­tus es, præ­sta, quǽsumus, ut per eius genitrícem
 Vírginem Ma­ríam, perpétuæ capiámus gaúdia vitæ. Per Christum Dó­mi­num
 no­strum.   
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -299,17 +299,17 @@ no­strum. 
 
 *Maria-antifoon van de Paaswake tot Pinksteren*
 
-**V** Koningin des hemels, verheug u, alleluia!   
-**R** Omdat Hij, die gij waardig geweest zijt te dragen, alleluia!   
-**V** Verrezen is, zoals Hij gezegd heeft, alleluia!   
-**R** Bid God voor ons, alleluia!   
-**V** Verheug en verblijd u, Maagd Maria, alleluia!   
-**R** Want de Heer is waarlijk verrezen, alleluia! Laat ons bidden. God,
+**℣**  Koningin des hemels, verheug u, alleluia!   
+**℟**  Omdat Hij, die gij waardig geweest zijt te dragen, alleluia!   
+**℣**  Verrezen is, zoals Hij gezegd heeft, alleluia!   
+**℟**  Bid God voor ons, alleluia!   
+**℣**  Verheug en verblijd u, Maagd Maria, alleluia!   
+**℟**  Want de Heer is waarlijk verrezen, alleluia! Laat ons bidden. God,
 door de ver­rij­zenis van uw Zoon Jezus Christus onze Heer, hebt Gij
 vreugde ge­schonken aan de wereld. Wij bidden U: laat ons door zijn
 moeder, de maagd Maria, eenmaal komen tot de vreugde van het eeuwig
 leven. Door Christus onze Heer.   
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -932,26 +932,26 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Asperges me. Domine, hyssopo, et mundabor: lavabis me, et super
+**℣**  Asperges me. Domine, hyssopo, et mundabor: lavabis me, et super
 nivem dealbabor. Miserere mei, Deus, secundum magnam misericordiam
 tuam.  
-**R** Gloria Patri, et Filio, et Spiritui Sancto.  
-**V** Sicut erat in principio, et nunc, et semper, et in sæcula
+**℟**  Gloria Patri, et Filio, et Spiritui Sancto.  
+**℣**  Sicut erat in principio, et nunc, et semper, et in sæcula
 sæculorum. Amen.  
-**R** Asperges me. Domine, hyssopo, et mundabor: lavabis me, et super
+**℟**  Asperges me. Domine, hyssopo, et mundabor: lavabis me, et super
 nivem dealbabor.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Gij besprenkelt mij, Heer, met hysop, en ik zal rein worden: Gij
+**℣**  Gij besprenkelt mij, Heer, met hysop, en ik zal rein worden: Gij
 wast mij, en ik zal witter worden dan sneeuw. Ontferm u over mij, o God,
 volgens uw grote barmhartigheid.  
-**R** Eer aan de Vader en de Zoon en de Heilige Geest.  
-**V** Zoals het was in het begin, en nu, en altijd, en in de eeuwen der
+**℟**  Eer aan de Vader en de Zoon en de Heilige Geest.  
+**℣**  Zoals het was in het begin, en nu, en altijd, en in de eeuwen der
 eeuwen. Amen.  
-**R** Gij besprenkelt mij, Heer, met hysop, en ik zal rein worden: Gij
+**℟**  Gij besprenkelt mij, Heer, met hysop, en ik zal rein worden: Gij
 wast mij, en ik zal witter worden dan sneeuw.
 
 </div>
@@ -999,15 +999,15 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Vidi aquam egredientem de templo, a latere dextro, alleluia:  
+**℣**  Vidi aquam egredientem de templo, a latere dextro, alleluia:  
 et omnes ad quos pervenit aqua ista salvi facti sunt et dicent:
 alleluia, alleluia.  
 Confitemini Domino, quoniam bonus: quoniam in sæculum misericordia
 ejus.  
-**R** Gloria Patri, et Filio, et Spiritui Sancto.  
-**V** Sicut erat in principio, et nunc, et semper, et in sæcula
+**℟**  Gloria Patri, et Filio, et Spiritui Sancto.  
+**℣**  Sicut erat in principio, et nunc, et semper, et in sæcula
 sæculorum. Amen.  
-**R** Vidi aquam egredientem de templo, a latere dextro, alleluia:  
+**℟**  Vidi aquam egredientem de templo, a latere dextro, alleluia:  
 et omnes ad quos pervenit aqua ista salvi facti sunt et dicent:
 alleluia, alleluia.
 
@@ -1015,16 +1015,16 @@ alleluia, alleluia.
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Ik heb water zien vloeien, ter rechterzijde de tempel uit,
+**℣**  Ik heb water zien vloeien, ter rechterzijde de tempel uit,
 alleluja;  
 en allen tot wie dit water gekomen is, zijn behouden en zullen zeggen,
 alleluja, alleluja.  
 Looft de Heer, want Hij is goed, want in eeuwigheid duurt zijn
 barmhartig­heid.  
-**R** Eer aan de Vader en de Zoon en de Heilige Geest.  
-**V** Zoals het was in het begin, en nu, en altijd, en in de eeuwen der
+**℟**  Eer aan de Vader en de Zoon en de Heilige Geest.  
+**℣**  Zoals het was in het begin, en nu, en altijd, en in de eeuwen der
 eeuwen. Amen.  
-**R** Ik heb water zien vloeien, ter rechterzijde de tempel uit,
+**℟**  Ik heb water zien vloeien, ter rechterzijde de tempel uit,
 alleluja;  
 en allen tot wie dit water gekomen is, zijn behouden en zullen zeggen,
 alleluja, alleluja.
@@ -1074,35 +1074,35 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Ostende nobis, Domine, misericordiam tuam.  
-**R** Et salutare tuum da nobis.  
-**V** Domine, exaudi orationem meam.  
-**R** Et clamor meus ad te veniat.  
-**V** Dominus vobiscum.  
-**R** Et cum spiritu tuo.  
-**V** Oremus.  
+**℣**  Ostende nobis, Domine, misericordiam tuam.  
+**℟**  Et salutare tuum da nobis.  
+**℣**  Domine, exaudi orationem meam.  
+**℟**  Et clamor meus ad te veniat.  
+**℣**  Dominus vobiscum.  
+**℟**  Et cum spiritu tuo.  
+**℣**  Oremus.  
 Exaudi nos, Domine sancte, Pater omnipotens, æterne Deus, et mittere
 digneris sanctum Angelum tuum de cælis, qui custodiat, foveat, protegat,
 visitet, atque defendat omnes habitantes in hoc habitaculo. Per Christum
 Dominum nostrum.  
-**R** Amen
+**℟**  Amen
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Toon ons, Heer, uw barmhartigheid.  
-**R** En schenk ons uw heil.  
-**V** Heer, verhoor mijn gebed.  
-**R** En mijn geroep kome tot U.  
-**V** De Heer zij met u.  
-**R** En met uw geest.  
-**V** Laten wij bidden.  
+**℣**  Toon ons, Heer, uw barmhartigheid.  
+**℟**  En schenk ons uw heil.  
+**℣**  Heer, verhoor mijn gebed.  
+**℟**  En mijn geroep kome tot U.  
+**℣**  De Heer zij met u.  
+**℟**  En met uw geest.  
+**℣**  Laten wij bidden.  
 Verhoor ons, heilige Heer, almachtige Vader, eeuwige God, en gelief uw
 heilige Engel uit de hemel te zenden, opdat hij al de bewoners van deze
 plaats beware, verzorge, bescherme, bezoeke en verdedige. Door Christus,
 onze Heer.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -1206,52 +1206,52 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Introibo ad altare Dei.  
-**R** Ad Deum qui lætificat juventutem meam.  
-**V** Judica me, Deus, et discerne causam meam de gente non sancta: ab
+**℣**  Introibo ad altare Dei.  
+**℟**  Ad Deum qui lætificat juventutem meam.  
+**℣**  Judica me, Deus, et discerne causam meam de gente non sancta: ab
 homine iniquo, et doloso erue me.  
-**R** Quia tu es, Deus, fortitudo mea: quare me repulisti, et quare
+**℟**  Quia tu es, Deus, fortitudo mea: quare me repulisti, et quare
 tristis incedo, dum affligit me inimicus?  
-**V** Emitte lucem tuam, et veritatem tuam: ipsa me deduxerunt, et
+**℣**  Emitte lucem tuam, et veritatem tuam: ipsa me deduxerunt, et
 aduxerunt in montem sanctum tuum, et in tabernacula tua.  
-**R** Et introibo ad altare Dei: ad Deum qui lætificat juventutem meam.  
-**V** Confitebor tibi in cithara, Deus, Deus meus: quare tristis es,
+**℟**  Et introibo ad altare Dei: ad Deum qui lætificat juventutem meam.  
+**℣**  Confitebor tibi in cithara, Deus, Deus meus: quare tristis es,
 anima mea, et quare conturbas me?  
-**R** Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei,
+**℟**  Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei,
 et Deus meus.  
-**V** Gloria Patri, et Filio, et Spiritui Sancto.  
-**R** Sicut erat in principio et nunc, et semper, et in sæcula
+**℣**  Gloria Patri, et Filio, et Spiritui Sancto.  
+**℟**  Sicut erat in principio et nunc, et semper, et in sæcula
 sæculorum. Amen.  
-**V** Introibo ad altare Dei.  
-**R** Ad Deum qui lætificat juventutem meam.  
-**V** Adjutorium nostrum in nomine Domini.  
-**R** Qui fecit cælum et terram.
+**℣**  Introibo ad altare Dei.  
+**℟**  Ad Deum qui lætificat juventutem meam.  
+**℣**  Adjutorium nostrum in nomine Domini.  
+**℟**  Qui fecit cælum et terram.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Ik zal ingaan tot het altaar Gods.  
-**R** Tot God die mijn jeugd verblijdt.  
-**V** God, schaf mij recht, kom tegen een goddeloos volk voor mij op,
+**℣**  Ik zal ingaan tot het altaar Gods.  
+**℟**  Tot God die mijn jeugd verblijdt.  
+**℣**  God, schaf mij recht, kom tegen een goddeloos volk voor mij op,
 verlos mij van de boze en bedrieglijke mens.  
-**R** Want Gij, o God, zijt mijn sterkte; waarom hebt Gij mij verstoten,
+**℟**  Want Gij, o God, zijt mijn sterkte; waarom hebt Gij mij verstoten,
 en waarom wandel ik in droefheid, terwijl de vijand mij verdrukt?  
-**V** Zend uw licht uit en uw waarheid; zij zullen mij geleiden en
+**℣**  Zend uw licht uit en uw waarheid; zij zullen mij geleiden en
 voeren op uw heilige berg en in uw tenten.  
-**R** En ik zal ingaan tot het altaar Gods; tot God die mijn jeugd
+**℟**  En ik zal ingaan tot het altaar Gods; tot God die mijn jeugd
 verblijdt.  
-**V** Ik zal U loven op de citer, God, mijn God; waarom zijt gij
+**℣**  Ik zal U loven op de citer, God, mijn God; waarom zijt gij
 bedroefd, mijn ziel, en waarom ontstelt gij mij?  
-**R** Vertrouw toch op God: dan zal ik Hem eens mogen danken als mijn
+**℟**  Vertrouw toch op God: dan zal ik Hem eens mogen danken als mijn
 Helper en God!  
-**V** Eer aan de Vader en de Zoon en de Heilige Geest.  
-**R** Zoals het was in het begin en nu, en altijd en in de eeuwen der
+**℣**  Eer aan de Vader en de Zoon en de Heilige Geest.  
+**℟**  Zoals het was in het begin en nu, en altijd en in de eeuwen der
 eeuwen. Amen.  
-**V** Ik zal ingaan tot het altaar Gods.  
-**R** Tot God die mijn jeugd verblijdt.  
-**V** Onze hulp is in de naam van de Heer.  
-**R** Die hemel en aarde gemaakt heeft.
+**℣**  Ik zal ingaan tot het altaar Gods.  
+**℟**  Tot God die mijn jeugd verblijdt.  
+**℣**  Onze hulp is in de naam van de Heer.  
+**℟**  Die hemel en aarde gemaakt heeft.
 
 </div>
 
@@ -1298,14 +1298,14 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**R** Confiteor Deo omnipotenti et vobis, fratres, quia peccavi nimis
+**℟**  Confiteor Deo omnipotenti et vobis, fratres, quia peccavi nimis
 cogitatione, verbo, opere et omissione, mea cupla, mea culpa, mea maxima
 culpa. Ideo precor beatam Mariam semper Virginem, omnes Angelos et
 Sanctos, et vos, fratres, orare pro me ad Dominum Deum nostrum.
 
 *aut:*
 
-**R** Confiteor Deo omnipotenti, beatæ Mariæ semper Virgini, beato
+**℟**  Confiteor Deo omnipotenti, beatæ Mariæ semper Virgini, beato
 Michaeli Archangelo, beato Joanni Baptistæ, sanctis Apostolis Petro et
 Paulo, omnibus Sanctis, et vobis, fratres: quia peccavi nimis
 cogitatione, verbo et opere: mea culpa, mea culpa, mea maxima culpa.
@@ -1313,15 +1313,15 @@ Ideo precor beatam Mariam semper Virginem, beatum Michaelem Archangelum,
 beatum Joannem Baptistam, sanctos Apostolos Petrum et Paulum, omnes
 Sanctos, et vos, fratres, orare pro me ad Dominum Deum nostrum.
 
-**V** Misereatur nostri \[tui\] omnipotens Deus, et dimissis peccatis
+**℣**  Misereatur nostri \[tui\] omnipotens Deus, et dimissis peccatis
 nostris \[tuis\], perducat nos \[te\] ad vitam æternam.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**R** Ik belijd voor de almachtige God, en voor u allen, dat ik
+**℟**  Ik belijd voor de almachtige God, en voor u allen, dat ik
 gezondigd heb in woord en gedachte, in doen en laten, door mijn schuld,
 door mijn schuld, door mijn grote schuld. Daarom smeek ik de heilige
 Maria, altijd maagd, alle engelen en heiligen, en u, broeders en
@@ -1329,7 +1329,7 @@ zusters, voor mij te bidden tot de Heer, onze God.
 
 *of:*
 
-**R** Ik belijd voor de almachtige God, voor de H. Maria altijd Maagd,
+**℟**  Ik belijd voor de almachtige God, voor de H. Maria altijd Maagd,
 de H. Aartsengel Michaël, de H. Joannes de Doper, de Heilige Apostelen
 Petrus en Paulus, alle heiligen en u, broeders, dat ik zeer gezondigd
 heb door gedachten, woorden en werken: door mijn schuld, door mijn
@@ -1338,9 +1338,9 @@ altijd Maagd, de H. Aartsengel Michaël, de H. Joannes de Doper, de
 Heilige Apos-telen Petrus en Paulus, alle heiligen en u, broeders, voor
 mij te bidden tot de Heer, onze God.
 
-**V** Moge de almachtige God zich over ons \[u\] ontfermen, onze \[uw\]
+**℣**  Moge de almachtige God zich over ons \[u\] ontfermen, onze \[uw\]
 zonden vergeven en ons \[u\] geleiden tot eeuwig leven.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -1387,53 +1387,53 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Miserere nostri, Domine.  
-**R** Quia peccavimus tibi.  
-**V** Ostende nobis, Domine, misericordiam tuam.  
-**R** Et salutare tuum da nobis.  
-**V** Misereatur nostri omnipotens Deus et, dimissis peccatis nostris,
+**℣**  Miserere nostri, Domine.  
+**℟**  Quia peccavimus tibi.  
+**℣**  Ostende nobis, Domine, misericordiam tuam.  
+**℟**  Et salutare tuum da nobis.  
+**℣**  Misereatur nostri omnipotens Deus et, dimissis peccatis nostris,
 perducat nos ad vitam aeternam.  
-**R** Amen.
+**℟**  Amen.
 
 *aut:*
 
-**V** Indulgentiam absolutionem, et remissionem peccatorum nostrorum,
+**℣**  Indulgentiam absolutionem, et remissionem peccatorum nostrorum,
 tributat nobis omnipotens et misericors Dominus.  
-**R** Amen.  
-**V** Deus, tu conversus vivificabis nos.  
-**R** Et plebs tua laetabitur in te.  
-**V** Ostende nobis Domine, misericordiam tuam.  
-**R** Et salutare tuum da nobis.  
-**V** Domine, exuadi orationem meam.  
-**R** Et clamor meus ad te veniat.  
-**V** Dominus vobiscum.  
-**R** Et cum spiritu tuo.
+**℟**  Amen.  
+**℣**  Deus, tu conversus vivificabis nos.  
+**℟**  Et plebs tua laetabitur in te.  
+**℣**  Ostende nobis Domine, misericordiam tuam.  
+**℟**  Et salutare tuum da nobis.  
+**℣**  Domine, exuadi orationem meam.  
+**℟**  Et clamor meus ad te veniat.  
+**℣**  Dominus vobiscum.  
+**℟**  Et cum spiritu tuo.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Heer, ontferm U over ons.  
-**R** Wij hebben gezondigd.  
-**V** Toon ons, Heer, uw barmhartigheid.  
-**R** En schenk ons Uw heil.  
-**V** Moge de almachtige God zich over ons ontfermen, onze zonden
+**℣**  Heer, ontferm U over ons.  
+**℟**  Wij hebben gezondigd.  
+**℣**  Toon ons, Heer, uw barmhartigheid.  
+**℟**  En schenk ons Uw heil.  
+**℣**  Moge de almachtige God zich over ons ontfermen, onze zonden
 vergeven, en ons geleiden tot het eeuwig leven.  
-**R** Amen.
+**℟**  Amen.
 
 *of:*
 
-**V** Kwijtschelding, vrij­spraak en vergiffenis van onze zonden verlene
+**℣**  Kwijtschelding, vrij­spraak en vergiffenis van onze zonden verlene
 ons de al­machtige en barm­hartige Heer.  
-**R** Amen.  
-**V** Keer U tot ons, Heer, en Gij zult ons doen leven.  
-**R** Opdat uw volk zich in U kan verheugen.  
-**V** Toon ons uw goedheid, o Heer.  
-**R** En schenk ons uw heil.  
-**V** Heer verhoor mijn gebed.  
-**R** En mijn geroep kome tot U.  
-**V** De Heer zij met u.  
-**R** En met uw geest.
+**℟**  Amen.  
+**℣**  Keer U tot ons, Heer, en Gij zult ons doen leven.  
+**℟**  Opdat uw volk zich in U kan verheugen.  
+**℣**  Toon ons uw goedheid, o Heer.  
+**℟**  En schenk ons uw heil.  
+**℣**  Heer verhoor mijn gebed.  
+**℟**  En mijn geroep kome tot U.  
+**℣**  De Heer zij met u.  
+**℟**  En met uw geest.
 
 </div>
 
@@ -1480,47 +1480,47 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Kyrie eleison.  
-**R** Kyrie eleison.  
-**V** Christe eleison.  
-**R** Christe eleison.  
-**V** Kyrie eleison.  
-**R** Kyrie eleison.
+**℣**  Kyrie eleison.  
+**℟**  Kyrie eleison.  
+**℣**  Christe eleison.  
+**℟**  Christe eleison.  
+**℣**  Kyrie eleison.  
+**℟**  Kyrie eleison.
 
 *aut:*
 
-**V** Kyrie eleison.  
-**R** Kyrie eleison.  
-**V** Kyrie eleison.  
-**R** Christe eleison.  
-**V** Christe eleison.  
-**R** Christe eleison.  
-**V** Kyrie eleison.  
-**R** Kyrie eleison.  
-**V** Kyrie eleison.
+**℣**  Kyrie eleison.  
+**℟**  Kyrie eleison.  
+**℣**  Kyrie eleison.  
+**℟**  Christe eleison.  
+**℣**  Christe eleison.  
+**℟**  Christe eleison.  
+**℣**  Kyrie eleison.  
+**℟**  Kyrie eleison.  
+**℣**  Kyrie eleison.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Heer, onterm U over ons.  
-**R** Heer, onterm U over ons.  
-**V** Christus, ontferm U over ons.  
-**R** Christus, ontferm U over ons.  
-**V** Heer, onterm U over ons.  
-**R** Heer, onterm U over ons.
+**℣**  Heer, onterm U over ons.  
+**℟**  Heer, onterm U over ons.  
+**℣**  Christus, ontferm U over ons.  
+**℟**  Christus, ontferm U over ons.  
+**℣**  Heer, onterm U over ons.  
+**℟**  Heer, onterm U over ons.
 
 *aut:*
 
-**V** Heer, onterm U over ons.  
-**R** Heer, onterm U over ons.  
-**V** Heer, onterm U over ons.  
-**R** Christus, ontferm U over ons.  
-**V** Christus, ontferm U over ons.  
-**R** Christus, ontferm U over ons.  
-**V** Heer, onterm U over ons.  
-**R** Heer, onterm U over ons.  
-**V** Heer, onterm U over ons.
+**℣**  Heer, onterm U over ons.  
+**℟**  Heer, onterm U over ons.  
+**℣**  Heer, onterm U over ons.  
+**℟**  Christus, ontferm U over ons.  
+**℣**  Christus, ontferm U over ons.  
+**℟**  Christus, ontferm U over ons.  
+**℣**  Heer, onterm U over ons.  
+**℟**  Heer, onterm U over ons.  
+**℣**  Heer, onterm U over ons.
 
 </div>
 
@@ -1925,9 +1925,9 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Orate, fratres, ut meum ac vestrum sacrificium acceptabile fit
+**℣**  Orate, fratres, ut meum ac vestrum sacrificium acceptabile fit
 apud Deum Patrem omnipotentem.  
-**R** Suscipiat Dominus sacrificium de manibus tuis ad laudem et gloriam
+**℟**  Suscipiat Dominus sacrificium de manibus tuis ad laudem et gloriam
 nominis sui, ad utilitatem quoque nostram totius que Ecclesiae suae
 sanctae.
 
@@ -1935,9 +1935,9 @@ sanctae.
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Bid, broeders en zusters, dat mijn en uw offer aanvaard kan worden
+**℣**  Bid, broeders en zusters, dat mijn en uw offer aanvaard kan worden
 door God, de almachtige Vader.  
-**R** Moge de Heer het offer uit uw handen aannemen, tot lof en eer van
+**℟**  Moge de Heer het offer uit uw handen aannemen, tot lof en eer van
 zijn Naam, tot welzijn van ons en van heel zijn heilige Kerk.
 
 </div>
@@ -1985,23 +1985,23 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Dominus vobiscum  
-**R** Et cum spiritu tuo.  
-**V** Sursum Corda.  
-**R** Habemus ad Dominum.  
-**V** Gratias agamus Domino Deo nostro.  
-**R** Dignum et iustum est.
+**℣**  Dominus vobiscum  
+**℟**  Et cum spiritu tuo.  
+**℣**  Sursum Corda.  
+**℟**  Habemus ad Dominum.  
+**℣**  Gratias agamus Domino Deo nostro.  
+**℟**  Dignum et iustum est.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** De Heer zij met u.  
-**R** En met uw geest.  
-**V** Verheft uw hart.  
-**R** Wij zijn met ons hart bij de Heer.  
-**V** Brengen wij dank aan de Heer, onze God.  
-**R** Hij is onze dankbaarheid waardig.
+**℣**  De Heer zij met u.  
+**℟**  En met uw geest.  
+**℣**  Verheft uw hart.  
+**℟**  Wij zijn met ons hart bij de Heer.  
+**℣**  Brengen wij dank aan de Heer, onze God.  
+**℟**  Hij is onze dankbaarheid waardig.
 
 </div>
 
@@ -2109,16 +2109,16 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Mysterium fidei.  
-**R** Mortem tua annuntiamus, Domine, et tuam resurrectionem confitemur,
+**℣**  Mysterium fidei.  
+**℟**  Mortem tua annuntiamus, Domine, et tuam resurrectionem confitemur,
 donec venias.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Verkondigen wij het mysterie van het geloof:  
-**R** Heer Jezus, wij verkondigen Uw dood, en wij belijden dat Gij
+**℣**  Verkondigen wij het mysterie van het geloof:  
+**℟**  Heer Jezus, wij verkondigen Uw dood, en wij belijden dat Gij
 wederkeert, tot Gij verrezen zijt.
 
 </div>
@@ -2166,18 +2166,18 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri
+**℣**  Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri
 omnipotenti, omnis honor et gloria per omnia saecula saeculorum  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Door Hem en met Hem en in Hem zal Uw Naam geprezen zijn, Heer onze
+**℣**  Door Hem en met Hem en in Hem zal Uw Naam geprezen zijn, Heer onze
 God, almachtige Vader, in de eenheid van de heilige Geest, hier en nu en
 tot in eeuwigheid.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -2236,16 +2236,16 @@ Sicut et nos dimíttimus debitóribus nostris.
 Et ne nos indúcas in tentatiónem:  
 Sed líbera nos a malo.
 
-**V** Libera nos, quaesumus, Domine, ab omnibus malis, da propitius
+**℣**  Libera nos, quaesumus, Domine, ab omnibus malis, da propitius
 pacem in diebus nostris, ut, ope misericordiae tuae adiuti, et a paccato
 simus semper liberi et ab omni perturbatione securi: exspectantes beatam
 spem et adventum Salvatoris nostri Iesu Christ.  
-**R** Quia tuum est regnum, Et potéstas, Et glória in sǽcula.  
+**℟**  Quia tuum est regnum, Et potéstas, Et glória in sǽcula.  
 Amen
 
 *aut:*
 
-**V** Libera nos, quaesumus, Domine, ab omnibus malis, praeteritis,
+**℣**  Libera nos, quaesumus, Domine, ab omnibus malis, praeteritis,
 praesentibus, et futuris: et intercedente beata et gloriosa semper
 Virgine Dei Genitrice Maria, cum beatis Apostolis tuis Petro et Paulo,
 atque Andrea, et omnibus Sanc­tis, da propitius pacem in diebus nostris:
@@ -2253,7 +2253,7 @@ ut ope misericordiae tuae adjuti, et a peccato simus semper liberi, et
 ab omni perturbatione securi. Per eundem Dominum nostrum Jesum Christum
 Filium tuum, Qui tecum vivit et regnat in unitate Spiritus Sancti Deus.
 Per omnia saecula saeculorum.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -2271,17 +2271,17 @@ zoals ook wij vergeven aan onze schuldenaren.
 En breng ons niet in beproeving,  
 maar verlos ons van het kwade.
 
-**V** Verlos ons, Heer, van alle kwaad, geef vrede in onze dagen, dat
+**℣**  Verlos ons, Heer, van alle kwaad, geef vrede in onze dagen, dat
 wij, gesteund door uw barmhartigheid, vrij mogen zijn van zonde, en
 beveiligd tegen alle onrust. Hoopvol wachtend op de komst van Jezus,
 Messias, uw Zoon.  
-**R** Want van U is het koninkrijk en de kracht en de heerlijkheid in
+**℟**  Want van U is het koninkrijk en de kracht en de heerlijkheid in
 eeuwigheid.  
 Amen.
 
 *of:*
 
-**V** Bevrijd ons, bidden wij, Heer, van alle verleden, tegenwoordig en
+**℣**  Bevrijd ons, bidden wij, Heer, van alle verleden, tegenwoordig en
 toekomstig kwaad, en geef ons op de voorspraak van de heilige en
 roemrijke Maria, altijd Maagd, en Moeder Gods, van uw HH. Apostelen
 Petrus en Paulus, Andreas, en alle Heiligen, goedgunstig de vrede in
@@ -2289,7 +2289,7 @@ onze dagen; opdat wij, door de bijstand van uw barmharigheid geholpen,
 steed vrij zijn van zonden, en beveiligd tegen alle verwarring. Door
 dezelfde onze Heer Jezus Christus, uw Zoon, die als God met U leeft en
 heerst in de eenheid met de Heilige Geest. Door alle eeuwen der eeuwen.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -2364,9 +2364,9 @@ Agnus Dei, qui tollis peccata mundi; miserere nobis.
 Agnus Dei, qui tollis peccata mundi; miserere nobis.  
 Agnus Dei, qui tollis peccata mundi; dona nobis pacem.
 
-**V** Ecce Agnus Dei, ecce qui tollit peccata mundi. Beati qui ad cenam
+**℣**  Ecce Agnus Dei, ecce qui tollit peccata mundi. Beati qui ad cenam
 Agni vocati sunt.  
-**R** Domine, non sum dignus, ut intres sub tectum meum, sed tantum dic
+**℟**  Domine, non sum dignus, ut intres sub tectum meum, sed tantum dic
 verbo et sanabitur anima mea.
 
 </div>
@@ -2377,9 +2377,9 @@ Lam Gods, dat de zonden van de wereld wegneemt: ontferm U over ons.
 Lam Gods, dat de zonden van de wereld wegneemt: ontferm U over ons.  
 Lam Gods, dat de zonden van de wereld wegneemt: geef ons de vrede.
 
-**V** Zie het Lam Gods, dat wegneemt de zonden van de wereld. Zalig zij
+**℣**  Zie het Lam Gods, dat wegneemt de zonden van de wereld. Zalig zij
 die uitgenodigd zijn tot de Maaltijd des Heren.  
-**R** Heer ik ben niet waardig dat Gij tot mij komt, Maar spreek en ik
+**℟**  Heer ik ben niet waardig dat Gij tot mij komt, Maar spreek en ik
 zal gezond worden.
 
 </div>
@@ -2427,24 +2427,24 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Dominus vobiscum.  
-**R** Et cum spiritu tuo.  
-**V** Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus
+**℣**  Dominus vobiscum.  
+**℟**  Et cum spiritu tuo.  
+**℣**  Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus
 Sanctus.  
-**R** Amen.  
-**V** Ite, missa est.  
-**R** Deo gratias.
+**℟**  Amen.  
+**℣**  Ite, missa est.  
+**℟**  Deo gratias.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** De Heer zij met u.  
-**R** En met uw geest.  
-**V** Zegene u de almachtige God, Vader, Zoon en heilige Geest.  
-**R** Amen.  
-**V** Gaat nu allen heen in vrede.  
-**R** Wij danken God.
+**℣**  De Heer zij met u.  
+**℟**  En met uw geest.  
+**℣**  Zegene u de almachtige God, Vader, Zoon en heilige Geest.  
+**℟**  Amen.  
+**℣**  Gaat nu allen heen in vrede.  
+**℟**  Wij danken God.
 
 </div>
 
@@ -2491,11 +2491,11 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Dominus vobiscum.  
-**R** Et cum spiritu tuo.  
-**V** Initium sancti Evangelii secundum Joannem.  
-**R** Gloria tibi, Domine.  
-**V** In principio erat Verbum et Verbum erat apud Deum, et Deus erat
+**℣**  Dominus vobiscum.  
+**℟**  Et cum spiritu tuo.  
+**℣**  Initium sancti Evangelii secundum Joannem.  
+**℟**  Gloria tibi, Domine.  
+**℣**  In principio erat Verbum et Verbum erat apud Deum, et Deus erat
 Verbum. Hoc erat in principio apud Deum. Omnia per ipsum facta sunt, et
 sine ipso factum est nihil quod factum est; in ipso vita erat, et vita
 erat lux hominum; et lux in tenebris lucet, et tenebrae eam non
@@ -2510,17 +2510,17 @@ in nomine eius, qui non ex sanquinibus, neque ex voluntate viri, sed ex
 deo nati sunt. ET VERBUM CARO FACTUM EST et habitabit in nobis; et
 vidimus gloriam eius gloiram quasi Unigenti a Patre, plenum gratiae et
 veritatis.  
-**R** Deo gratias.
+**℟**  Deo gratias.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** De Heer zij met u.  
-**R** En met uw geest.  
-**V** Begin van het heilig Evangelie volgens Johannes.  
-**R** Lof zij U, Christus.  
-**V** In het begin was het Woord, en het Woord was bij God, en het Woord
+**℣**  De Heer zij met u.  
+**℟**  En met uw geest.  
+**℣**  Begin van het heilig Evangelie volgens Johannes.  
+**℟**  Lof zij U, Christus.  
+**℣**  In het begin was het Woord, en het Woord was bij God, en het Woord
 was God. Dit was in het begin bij God. Alles is door Hem geworden, en
 zonder Hem is er niets geworden van hetgeen er geworden is. In Hem was
 leven, en dit Leven was het licht der mensen; en dat Licht schijnt in de
@@ -2538,7 +2538,7 @@ een man, maar uit God geboren. EN HET WOORD IS VLEES GEWORDEN, en Het
 heeft onder ons gewoond. En wij hebben zijn heerlijkheid aanschouwd, een
 heerlijkheid als van de Enig­geborene van de Vader, vol van genade en
 waar­heid.  
-**R** Wij danken U, God.
+**℟**  Wij danken U, God.
 
 </div>
 
@@ -3919,37 +3919,37 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Angelus Dómini nuntiávit Maríæ,   
-**R** Et concépit de Spíritu Sancto. Ave María...   
-**V** Ecce ancílla Dómini;  
-**R** Fiat mihi secúndum verbum tuum. Ave María...   
-**V** Et Verbum caro factum est;   
-**R** Et habitávit in nobis. Ave María...   
-**V** Ora pro nobis, Sancta Dei Gé­nitrix;   
-**R** Ut digni efficiámur pro­mis­sió­ni­bus Christi. Orémus. Grátiam
+**℣**  Angelus Dómini nuntiávit Maríæ,   
+**℟**  Et concépit de Spíritu Sancto. Ave María...   
+**℣**  Ecce ancílla Dómini;  
+**℟**  Fiat mihi secúndum verbum tuum. Ave María...   
+**℣**  Et Verbum caro factum est;   
+**℟**  Et habitávit in nobis. Ave María...   
+**℣**  Ora pro nobis, Sancta Dei Gé­nitrix;   
+**℟**  Ut digni efficiámur pro­mis­sió­ni­bus Christi. Orémus. Grátiam
 tuam, quǽ­su­mus, Dómine, méntibus nostris in­fún­de: ut qui, Angelo
 nuntiánte, Chri­sti Fí­lii tui Incarnatiónem cognóvimus, per passiónem
 eius et crucem ad resurrectiónis glóriam per­du­cá­mur. Per Chri­stum
 Dó­mi­num nostrum.   
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** De Engel des Heren heeft aan Maria geboodschapt,   
-**R** En zij heeft ontvangen van de heilige Geest. Wees gegroet...   
-**V** Zie de dienstmaagd des Heren.   
-**R** Mij geschiede naar uw woord. Wees gegroet...   
-**V** En het Woord is vlees geworden.   
-**R** En Het heeft onder ons gewoond. Wees gegroet...   
-**V** Bid voor ons, heilige Moeder van God.   
-**R** Opdat wij de beloften van Christus waardig worden. Laat ons
+**℣**  De Engel des Heren heeft aan Maria geboodschapt,   
+**℟**  En zij heeft ontvangen van de heilige Geest. Wees gegroet...   
+**℣**  Zie de dienstmaagd des Heren.   
+**℟**  Mij geschiede naar uw woord. Wees gegroet...   
+**℣**  En het Woord is vlees geworden.   
+**℟**  En Het heeft onder ons gewoond. Wees gegroet...   
+**℣**  Bid voor ons, heilige Moeder van God.   
+**℟**  Opdat wij de beloften van Christus waardig worden. Laat ons
 bidden. Heer wij hebben door de boodschap van de Engel de mens­wor­ding
 van Christus uw Zoon leren kennen; wij bidden U: stort uw genade in onze
 harten, opdat wij door zijn lijden en kruis gebracht worden tot de
 heer­lijk­heid van de verrijzenis. Door Christus onze Heer.   
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -4535,157 +4535,157 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Kyrie, eleison.  
-**R** Christe, eleison.  
-**V** Kyrie, eleison.  
+**℣**  Kyrie, eleison.  
+**℟**  Christe, eleison.  
+**℣**  Kyrie, eleison.  
 Christe, audi nos.  
-**R** Christe, exaudi nos.  
-**V** Pater de cælis, Deus, **R** miserére nobis.  
-**V** Fili, Redemptor mundi, Deus, **R** miserére nobis.  
-**V** Spíritus Sancte, Deus, **R** miserére nobis.  
-**V** Sancta Trínitas, unus Deus, **R** miserére nobis.  
-**V** Sancta María, **R** ora pro nobis.  
-**V** Sancta Dei Génetrix, **R** ora pro nobis.  
-**V** Sancta Virgo vírginum, **R** ora pro nobis.  
-**V** Mater Christi, **R** ora pro nobis.  
-**V** Mater Ecclésiæ, **R** ora pro nobis.  
-**V** Mater divínæ grátiæ, **R** ora pro nobis.  
-**V** Mater puríssima, **R** ora pro nobis.  
-**V** Mater castíssima, **R** ora pro nobis.  
-**V** Mater invioláta, **R** ora pro nobis.  
-**V** Mater intemeráta, **R** ora pro nobis.  
-**V** Mater amábilis, **R** ora pro nobis.  
-**V** Mater admirábilis, **R** ora pro nobis.  
-**V** Mater boni consílii, **R** ora pro nobis.  
-**V** Mater Creatóris, **R** ora pro nobis.  
-**V** Mater Salvatóris, **R** ora pro nobis.  
-**V** Virgo prudentíssima, **R** ora pro nobis.  
-**V** Virgo veneránda, **R** ora pro nobis.  
-**V** Virgo prædicánda, **R** ora pro nobis.  
-**V** Virgo potens, **R** ora pro nobis.  
-**V** Virgo clemens, **R** ora pro nobis.  
-**V** Virgo fidélis, **R** ora pro nobis.  
-**V** Spéculum iustítiæ, **R** ora pro nobis.  
-**V** Sedes sapiéntiæ, **R** ora pro nobis.  
-**V** Causa nostræ lætítiæ, **R** ora pro nobis.  
-**V** Vas spirituále, **R** ora pro nobis.  
-**V** Vas honorábile, **R** ora pro nobis.  
-**V** Vas insígne devotiónis, **R** ora pro nobis.  
-**V** Rosa mýstica, **R** ora pro nobis.  
-**V** Turris Davídica, **R** ora pro nobis.  
-**V** Turris ebúrnea, **R** ora pro nobis.  
-**V** Domus áurea, **R** ora pro nobis.  
-**V** Foéderis arca, **R** ora pro nobis.  
-**V** Iánua cæli, **R** ora pro nobis.  
-**V** Stella matutína, **R** ora pro nobis.  
-**V** Salus infirmórum, **R** ora pro nobis.  
-**V** Refúgium peccatórum, **R** ora pro nobis.  
-**V** Consolátrix afflictórum, **R** ora pro nobis.  
-**V** Auxílium Christianórum, **R** ora pro nobis.  
-**V** Regína Angelórum, **R** ora pro nobis.  
-**V** Regína Patriarchárum, **R** ora pro nobis.  
-**V** Regína Prophetárum, **R** ora pro nobis.  
-**V** Regína Apostolórum, **R** ora pro nobis.  
-**V** Regína Mártyrum, **R** ora pro nobis.  
-**V** Regína Confessórum, **R** ora pro nobis.  
-**V** Regína Vírginum, **R** ora pro nobis.  
-**V** Regína Sanctórum ómnium, **R** ora pro nobis.  
-**V** Regína sine labe origináli concépta, **R** ora pro nobis.  
-**V** Regína in cælum assúmpta, **R** ora pro nobis.  
-**V** Regína sacratíssimi Rosárii, **R** ora pro nobis.  
-**V** Regína famíliæ, **R** ora pro nobis.  
-**V** Regína pacis, **R** ora pro nobis.  
-**V** Agnus Dei, qui tollis peccáta mundi, **R** parce nobis, Dómine.  
-**V** Agnus Dei, qui tollis peccáta mundi, **R** exáudi nos, Dómine.  
-**V** Agnus Dei, qui tollis peccáta mundi, **R** miserére nobis.  
-**V** Ora pro nobis, sancta Dei Génitrix,  
-**R** Ut digni efficiámur promissiónibus Christi.  
-**V** Orémus  
+**℟**  Christe, exaudi nos.  
+**℣**  Pater de cælis, Deus, **℟**  miserére nobis.  
+**℣**  Fili, Redemptor mundi, Deus, **℟**  miserére nobis.  
+**℣**  Spíritus Sancte, Deus, **℟**  miserére nobis.  
+**℣**  Sancta Trínitas, unus Deus, **℟**  miserére nobis.  
+**℣**  Sancta María, **℟**  ora pro nobis.  
+**℣**  Sancta Dei Génetrix, **℟**  ora pro nobis.  
+**℣**  Sancta Virgo vírginum, **℟**  ora pro nobis.  
+**℣**  Mater Christi, **℟**  ora pro nobis.  
+**℣**  Mater Ecclésiæ, **℟**  ora pro nobis.  
+**℣**  Mater divínæ grátiæ, **℟**  ora pro nobis.  
+**℣**  Mater puríssima, **℟**  ora pro nobis.  
+**℣**  Mater castíssima, **℟**  ora pro nobis.  
+**℣**  Mater invioláta, **℟**  ora pro nobis.  
+**℣**  Mater intemeráta, **℟**  ora pro nobis.  
+**℣**  Mater amábilis, **℟**  ora pro nobis.  
+**℣**  Mater admirábilis, **℟**  ora pro nobis.  
+**℣**  Mater boni consílii, **℟**  ora pro nobis.  
+**℣**  Mater Creatóris, **℟**  ora pro nobis.  
+**℣**  Mater Salvatóris, **℟**  ora pro nobis.  
+**℣**  Virgo prudentíssima, **℟**  ora pro nobis.  
+**℣**  Virgo veneránda, **℟**  ora pro nobis.  
+**℣**  Virgo prædicánda, **℟**  ora pro nobis.  
+**℣**  Virgo potens, **℟**  ora pro nobis.  
+**℣**  Virgo clemens, **℟**  ora pro nobis.  
+**℣**  Virgo fidélis, **℟**  ora pro nobis.  
+**℣**  Spéculum iustítiæ, **℟**  ora pro nobis.  
+**℣**  Sedes sapiéntiæ, **℟**  ora pro nobis.  
+**℣**  Causa nostræ lætítiæ, **℟**  ora pro nobis.  
+**℣**  Vas spirituále, **℟**  ora pro nobis.  
+**℣**  Vas honorábile, **℟**  ora pro nobis.  
+**℣**  Vas insígne devotiónis, **℟**  ora pro nobis.  
+**℣**  Rosa mýstica, **℟**  ora pro nobis.  
+**℣**  Turris Davídica, **℟**  ora pro nobis.  
+**℣**  Turris ebúrnea, **℟**  ora pro nobis.  
+**℣**  Domus áurea, **℟**  ora pro nobis.  
+**℣**  Foéderis arca, **℟**  ora pro nobis.  
+**℣**  Iánua cæli, **℟**  ora pro nobis.  
+**℣**  Stella matutína, **℟**  ora pro nobis.  
+**℣**  Salus infirmórum, **℟**  ora pro nobis.  
+**℣**  Refúgium peccatórum, **℟**  ora pro nobis.  
+**℣**  Consolátrix afflictórum, **℟**  ora pro nobis.  
+**℣**  Auxílium Christianórum, **℟**  ora pro nobis.  
+**℣**  Regína Angelórum, **℟**  ora pro nobis.  
+**℣**  Regína Patriarchárum, **℟**  ora pro nobis.  
+**℣**  Regína Prophetárum, **℟**  ora pro nobis.  
+**℣**  Regína Apostolórum, **℟**  ora pro nobis.  
+**℣**  Regína Mártyrum, **℟**  ora pro nobis.  
+**℣**  Regína Confessórum, **℟**  ora pro nobis.  
+**℣**  Regína Vírginum, **℟**  ora pro nobis.  
+**℣**  Regína Sanctórum ómnium, **℟**  ora pro nobis.  
+**℣**  Regína sine labe origináli concépta, **℟**  ora pro nobis.  
+**℣**  Regína in cælum assúmpta, **℟**  ora pro nobis.  
+**℣**  Regína sacratíssimi Rosárii, **℟**  ora pro nobis.  
+**℣**  Regína famíliæ, **℟**  ora pro nobis.  
+**℣**  Regína pacis, **℟**  ora pro nobis.  
+**℣**  Agnus Dei, qui tollis peccáta mundi, **℟**  parce nobis, Dómine.  
+**℣**  Agnus Dei, qui tollis peccáta mundi, **℟**  exáudi nos, Dómine.  
+**℣**  Agnus Dei, qui tollis peccáta mundi, **℟**  miserére nobis.  
+**℣**  Ora pro nobis, sancta Dei Génitrix,  
+**℟**  Ut digni efficiámur promissiónibus Christi.  
+**℣**  Orémus  
 Concéde nos fámulos tuos, quæsúmus, Dómine Deus, perpétua mentis et
 córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis
 intercessióne, a præsénti liberári tristítia, et ætérna perfrúi lætítia.
 Per Christum Dóminum nostrum.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Heer, ontferm U over ons.  
-**R** Christus, ontferm U over ons.  
-**V** Heer, ontferm U over ons.  
+**℣**  Heer, ontferm U over ons.  
+**℟**  Christus, ontferm U over ons.  
+**℣**  Heer, ontferm U over ons.  
 Christus, aanhoor ons.  
-**R** Christus, verhoor ons.  
-**V** God, hemelse Vader, **R** ontferm U over ons.  
-**V** God, Zoon, Verlosser van de wereld, **R** ontferm U over ons.  
-**V** God, heilige Geest, **R** ontferm U over ons.  
-**V** Heilige Drievuldigheid, één God, **R** ontferm U over ons.  
-**V** Heilige Maria, **R** bid voor ons.  
-**V** Heilige Moeder van God, **R** bid voor ons.  
-**V** Heilige Maagd der maagden, **R** bid voor ons.  
-**V** Moeder van Christus, **R** bid voor ons.  
-**V** Moeder van de Kerk, **R** bid voor ons.  
-**V** Moeder van de goddelijke Genade, **R** bid voor ons.  
-**V** Allerreinste Moeder, **R** bid voor ons.  
-**V** Zeer kuise Moeder, **R** bid voor ons.  
-**V** Maagdelijke Moeder, **R** bid voor ons.  
-**V** Onbevlekte Moeder, **R** bid voor ons.  
-**V** Beminnelijke Moeder, **R** bid voor ons.  
-**V** Bewonderenswaardige Moeder, **R** bid voor ons.  
-**V** Moeder van goede raad, **R** bid voor ons.  
-**V** Moeder van de Schepper, **R** bid voor ons.  
-**V** Moeder van de Zaligmaker, **R** bid voor ons.  
-**V** Allervoorzichtigste Maagd, **R** bid voor ons.  
-**V** Eerwaardige Maagd, **R** bid voor ons.  
-**V** Lofwaardige Maagd, **R** bid voor ons.  
-**V** Machtige Maagd, **R** bid voor ons.  
-**V** Goedertieren Maagd, **R** bid voor ons.  
-**V** Getrouwe Maagd, **R** bid voor ons.  
-**V** Spiegel van gerechtigheid, **R** bid voor ons.  
-**V** Zetel van Wijsheid, **R** bid voor ons.  
-**V** Oorzaak van onze blijdschap, **R** bid voor ons.  
-**V** Geestelijk vat, **R** bid voor ons.  
-**V** Eerwaardig vat, **R** bid voor ons.  
-**V** Heerlijk vat van godsvrucht, **R** bid voor ons.  
-**V** Mystieke roos, **R** bid voor ons.  
-**V** Toren van David, **R** bid voor ons.  
-**V** Ivoren toren, **R** bid voor ons.  
-**V** Gouden huis, **R** bid voor ons.  
-**V** Ark van het verbond, **R** bid voor ons.  
-**V** Deur van de hemel, **R** bid voor ons.  
-**V** Morgenster, **R** bid voor ons.  
-**V** Heil van de zieken, **R** bid voor ons.  
-**V** Toevlucht van de zondaren, **R** bid voor ons.  
-**V** Troosteres van de bedroefden, **R** bid voor ons.  
-**V** Hulp van de christenen, **R** bid voor ons.  
-**V** Koningin van de engelen, **R** bid voor ons.  
-**V** Koningin van de aartsvaders, **R** bid voor ons.  
-**V** Koningin van de profeten, **R** bid voor ons.  
-**V** Koningin van de apostelen, **R** bid voor ons.  
-**V** Koningin van de martelaren, **R** bid voor ons.  
-**V** Koningin van de belijders, **R** bid voor ons.  
-**V** Koningin van de maagden, **R** bid voor ons.  
-**V** Koningin van alle heiligen, **R** bid voor ons.  
-**V** Koningin zonder erfsmet ontvangen, **R** bid voor ons.  
-**V** Koningin in de hemel opgenomen, **R** bid voor ons.  
-**V** Koningin van de heilige rozenkrans, **R** bid voor ons.  
-**V** Koningin van het gezin, **R** bid voor ons.  
-**V** Koningin van de vrede, **R** bid voor ons.  
-**V** Lam Gods, dat de zonden van de wereld wegneemt, **R** spaar ons
+**℟**  Christus, verhoor ons.  
+**℣**  God, hemelse Vader, **℟**  ontferm U over ons.  
+**℣**  God, Zoon, Verlosser van de wereld, **℟**  ontferm U over ons.  
+**℣**  God, heilige Geest, **℟**  ontferm U over ons.  
+**℣**  Heilige Drievuldigheid, één God, **℟**  ontferm U over ons.  
+**℣**  Heilige Maria, **℟**  bid voor ons.  
+**℣**  Heilige Moeder van God, **℟**  bid voor ons.  
+**℣**  Heilige Maagd der maagden, **℟**  bid voor ons.  
+**℣**  Moeder van Christus, **℟**  bid voor ons.  
+**℣**  Moeder van de Kerk, **℟**  bid voor ons.  
+**℣**  Moeder van de goddelijke Genade, **℟**  bid voor ons.  
+**℣**  Allerreinste Moeder, **℟**  bid voor ons.  
+**℣**  Zeer kuise Moeder, **℟**  bid voor ons.  
+**℣**  Maagdelijke Moeder, **℟**  bid voor ons.  
+**℣**  Onbevlekte Moeder, **℟**  bid voor ons.  
+**℣**  Beminnelijke Moeder, **℟**  bid voor ons.  
+**℣**  Bewonderenswaardige Moeder, **℟**  bid voor ons.  
+**℣**  Moeder van goede raad, **℟**  bid voor ons.  
+**℣**  Moeder van de Schepper, **℟**  bid voor ons.  
+**℣**  Moeder van de Zaligmaker, **℟**  bid voor ons.  
+**℣**  Allervoorzichtigste Maagd, **℟**  bid voor ons.  
+**℣**  Eerwaardige Maagd, **℟**  bid voor ons.  
+**℣**  Lofwaardige Maagd, **℟**  bid voor ons.  
+**℣**  Machtige Maagd, **℟**  bid voor ons.  
+**℣**  Goedertieren Maagd, **℟**  bid voor ons.  
+**℣**  Getrouwe Maagd, **℟**  bid voor ons.  
+**℣**  Spiegel van gerechtigheid, **℟**  bid voor ons.  
+**℣**  Zetel van Wijsheid, **℟**  bid voor ons.  
+**℣**  Oorzaak van onze blijdschap, **℟**  bid voor ons.  
+**℣**  Geestelijk vat, **℟**  bid voor ons.  
+**℣**  Eerwaardig vat, **℟**  bid voor ons.  
+**℣**  Heerlijk vat van godsvrucht, **℟**  bid voor ons.  
+**℣**  Mystieke roos, **℟**  bid voor ons.  
+**℣**  Toren van David, **℟**  bid voor ons.  
+**℣**  Ivoren toren, **℟**  bid voor ons.  
+**℣**  Gouden huis, **℟**  bid voor ons.  
+**℣**  Ark van het verbond, **℟**  bid voor ons.  
+**℣**  Deur van de hemel, **℟**  bid voor ons.  
+**℣**  Morgenster, **℟**  bid voor ons.  
+**℣**  Heil van de zieken, **℟**  bid voor ons.  
+**℣**  Toevlucht van de zondaren, **℟**  bid voor ons.  
+**℣**  Troosteres van de bedroefden, **℟**  bid voor ons.  
+**℣**  Hulp van de christenen, **℟**  bid voor ons.  
+**℣**  Koningin van de engelen, **℟**  bid voor ons.  
+**℣**  Koningin van de aartsvaders, **℟**  bid voor ons.  
+**℣**  Koningin van de profeten, **℟**  bid voor ons.  
+**℣**  Koningin van de apostelen, **℟**  bid voor ons.  
+**℣**  Koningin van de martelaren, **℟**  bid voor ons.  
+**℣**  Koningin van de belijders, **℟**  bid voor ons.  
+**℣**  Koningin van de maagden, **℟**  bid voor ons.  
+**℣**  Koningin van alle heiligen, **℟**  bid voor ons.  
+**℣**  Koningin zonder erfsmet ontvangen, **℟**  bid voor ons.  
+**℣**  Koningin in de hemel opgenomen, **℟**  bid voor ons.  
+**℣**  Koningin van de heilige rozenkrans, **℟**  bid voor ons.  
+**℣**  Koningin van het gezin, **℟**  bid voor ons.  
+**℣**  Koningin van de vrede, **℟**  bid voor ons.  
+**℣**  Lam Gods, dat de zonden van de wereld wegneemt, **℟**  spaar ons
 Heer.  
-**V** Lam Gods, dat de zonden van de wereld wegneemt, **R** verhoor ons
+**℣**  Lam Gods, dat de zonden van de wereld wegneemt, **℟**  verhoor ons
 Heer.  
-**V** Lam Gods, dat de zonden van de wereld wegneemt, **R** ontferm U
+**℣**  Lam Gods, dat de zonden van de wereld wegneemt, **℟**  ontferm U
 over ons.  
-**V** Bid voor ons, Moeder van God,  
-**R** opdat wij de beloften van Christus waardig worden.  
-**V** Laat ons bidden  
+**℣**  Bid voor ons, Moeder van God,  
+**℟**  opdat wij de beloften van Christus waardig worden.  
+**℣**  Laat ons bidden  
 Heer God, wij bidden U: geef ons, uw dienaren, dat wij ons mogen
 verheugen in een bestendige gezondheid van ziel en lichaam; mogen wij
 door de verheven voorspraak van de heilige Maria, die altijd maagd is
 gebleven, verlost worden van de tegenwoordige droefheid en de eeuwige
 vreugde genieten. Door Christus, onze Heer.  
-**R** Amen.
+**℟**  Amen.
 
 </div>
 
@@ -4747,9 +4747,9 @@ O félicem virum, beátum Joseph, cui datum est, Deum, quem multi reges
 voluérunt vidére et non vidérunt, audíre et non audiérunt, non solum
 vidére et audíre, sed portáre, deosculári, vestíre et custodíre !
 
-**V** Ora pro nobis, beáte Joseph.
+**℣**  Ora pro nobis, beáte Joseph.
 
-**R** Ut digni efficiámur promissiónibus Christi.
+**℟**  Ut digni efficiámur promissiónibus Christi.
 
 Deus, qui dedísti nobis regále sacerdótium: præsta, quǽsumus; ut, sicut
 beátus Joseph unigénitum Fílium tuum, natum ex María Vírgine, suis
@@ -5714,7 +5714,7 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Non intres in judícium cum servo tuo, Dómine, quia nullus apud te
+**℣**  Non intres in judícium cum servo tuo, Dómine, quia nullus apud te
 justificábitur homo, nisi per te ómnium peccatórum ei tribuátur
 remíssio. Non ergo eum, quæsúmus, tua judiciális senténtia premat, quem
 tibi vera supplicátio fidei christiánæ comméndat: sed, grátia tua illi
@@ -5722,13 +5722,13 @@ succurrénte, mereátur evádere judícium ultiónis, qui, dum víveret,
 insígnitus est signáculo sanctæ Trinitátis: Qui vivis et regnas in
 sǽcula sæculórum.
 
-**R** Amen
+**℟**  Amen
 
 </div>
 
 <div class="w-slide w-clearfix slide-containeer">
 
-**V** Wil niet oordelen, o Heer, over uw dienaar, want bij U kan niemand
+**℣**  Wil niet oordelen, o Heer, over uw dienaar, want bij U kan niemand
 zich rechtvaardigen, tenzij door U de vergeving van alle zonden wordt
 verleend. Wij smeken U dan ook, laat het vonnis van Uw oordeel hem niet
 verpletteren, hij die aan U wordt aanbevolen door de oprechte smeekbede
@@ -5737,7 +5737,7 @@ de wraak moge ontkomen bij het oordeel, hij die bij leven getekend werd
 met het teken van de heilige Drievuldigheid: Die leeft en heerst in de
 eeuwen der eeuwen.
 
-**R** Amen
+**℟**  Amen
 
 </div>
 
