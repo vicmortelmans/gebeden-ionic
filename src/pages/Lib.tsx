@@ -36,7 +36,6 @@ export const randomBackground = () => {
         { file: './19.jpg', w: 3244, h: 2260 },
         { file: './20.jpg', w: 3072, h: 2304 },
         { file: './21.jpg', w: 2100, h: 1500 },
-        { file: './22.jpg', w: 2047, h: 1536 },
         { file: './23.jpg', w: 1677, h: 1746 }
     ];
     // pick one randomly

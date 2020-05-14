@@ -212,13 +212,13 @@ function Home () {
           </AccordionItem>
         ))}
       </Accordion>
-      <IonButton expand='full' color='medium' href='mailto:info@gelovenleren.net'>MAIL</IonButton>
-      <IonButton expand='full' color='medium' href='http://gelovenleren.net/blog/gebeden-app/'>INFO</IonButton>
+      <IonButton expand='full' color='primary' href='mailto:info@gelovenleren.net'>MAIL</IonButton>
+      <IonButton expand='full' color='primary' href='http://gelovenleren.net/blog/gebeden-app/'>INFO</IonButton>
       <BrowserView>
-        <IonButton expand='full' color='medium' href='https://play.google.com/store/apps/details?id=net.gelovenleren.gebeden'>Install ANDROID APP</IonButton>
+        <IonButton expand='full' color='primary' href='https://play.google.com/store/apps/details?id=net.gelovenleren.gebeden'>Install ANDROID APP</IonButton>
       </BrowserView>
       <IonFab vertical='bottom' horizontal='end' slot='fixed'>
-        <IonFabButton>
+        <IonFabButton color='secondary'>
           <IonIcon icon={shareSocial}/>
         </IonFabButton>
         <IonFabList side='top'>
