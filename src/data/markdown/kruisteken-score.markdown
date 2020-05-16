@@ -1,1 +1,1 @@
-![](./kruisteken.png)
+![](./kruisteken.jpg)

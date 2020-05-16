@@ -1,1 +1,1 @@
-![](./introibo-ad-altare-dei.png)
+![](./introibo-ad-altare-dei.jpg)

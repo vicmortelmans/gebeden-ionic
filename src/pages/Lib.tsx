@@ -29,14 +29,14 @@ export const randomBackground = () => {
         { file: './12.jpg', w: 672, h: 448 },
         { file: './13.jpg', w: 1280, h: 960 },
         { file: './14.jpg', w: 1341, h: 1159 },
-        { file: './15.jpg', w: 3000, h: 1996 },
-        { file: './16.jpg', w: 3000, h: 1994 },
-        { file: './17.jpg', w: 3000, h: 2015 },
+        { file: './15.jpg', w: 1583, h: 1024 },
+        { file: './16.jpg', w: 1551, h: 1024 },
+        { file: './17.jpg', w: 1560, h: 1024 },
         { file: './18.jpg', w: 1280, h: 854 },
-        { file: './19.jpg', w: 3244, h: 2260 },
-        { file: './20.jpg', w: 3072, h: 2304 },
-        { file: './21.jpg', w: 2100, h: 1500 },
-        { file: './23.jpg', w: 1677, h: 1746 }
+        { file: './19.jpg', w: 1470, h: 1024 },
+        { file: './20.jpg', w: 1365, h: 1024 },
+        { file: './21.jpg', w: 1434, h: 1024 },
+        { file: './23.jpg', w: 984, h: 1024 }
     ];
     // pick one randomly
     const bgImage = bgImages[Math.floor(Math.random() * bgImages.length)]; 

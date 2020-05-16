@@ -6,6 +6,6 @@
 
 ### Ite missa est
 
-![](./mass-iv-ite.png)
+![](./mass-iv-ite.jpg)
 
 *(de melodie is die van het Kyrie)*

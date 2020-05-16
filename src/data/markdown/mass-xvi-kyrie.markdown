@@ -18,4 +18,4 @@
 
 ### Ite missa est
 
-![](./mass-xvi-ite.png)
+![](./mass-xvi-ite.jpg)

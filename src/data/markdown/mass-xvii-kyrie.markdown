@@ -24,7 +24,7 @@
 
 ### Ite missa est
 
-![](./mass-xv-ite.png)
+![](./mass-xv-ite.jpg)
 
 *(zelfde als Mis XV)*
 

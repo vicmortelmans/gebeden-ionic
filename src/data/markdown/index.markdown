@@ -29,7 +29,7 @@ data-infinite="1">
 
 <div class="w-slide w-clearfix slide-containeer">
 
-![Alma Redemptoris Mater](./alma-redemptoris-mater.svg.png)
+![Alma Redemptoris Mater](./alma-redemptoris-mater.svg.jpg)
 
 </div>
 

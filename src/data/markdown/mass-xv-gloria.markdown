@@ -6,7 +6,7 @@
 
 ### Ite missa est
 
-![](./mass-xv-ite.png)
+![](./mass-xv-ite.jpg)
 
 *(deze melodie mag *ad libitum* gebruikt worden bij alle missen waar *Ite missa est* gezongen wordt zonder *alleluia*)*
 

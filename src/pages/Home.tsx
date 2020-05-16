@@ -69,19 +69,22 @@ function Home () {
           'block': 'start',
           'behavior': 'smooth'
         });
-  }, [openCategory]);
+  }, [openCategory, quote]);
 
   useEffect(() => {
+    console.log("scrolling to top?")
     if (openPrayer) {
+      console.log("scrolling to top!" + openPrayer)
       const item = document.querySelector('.prayer-accordion-item.' + openPrayer);
       if (item) {
         item.scrollIntoView({
             'block': 'start',
             'behavior': 'smooth'
           });
+        console.log("scrolling to top done!" + openPrayer)
       }
     }
-  }, [openPrayer]);
+  }, [openPrayer, quote]);
 
   // effect to increase the height of the open prayer, to fill the screen
   useLayoutEffect(() => {
@@ -136,6 +139,7 @@ function Home () {
 
   return (
     <IonContent>
+      {console.log("Rendering for " + openCategory + "/" + openPrayer + "/" + isMobile + "/" + quote)}
       <Accordion 
         allowZeroExpanded={true} 
         className='category'
