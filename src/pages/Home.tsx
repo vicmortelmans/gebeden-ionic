@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useLayoutEffect, useCallback } from 'react'; 
+import React, { useEffect, useLayoutEffect, useState, useRef, useCallback } from 'react'; 
 import { IonContent, IonButton, IonFab, IonFabButton, IonIcon, IonFabList } from '@ionic/react';
 import { shareSocial } from 'ionicons/icons';
 import ReactMarkdownFromAsset from '../components/ReactMarkdownFromAsset'
@@ -62,42 +62,27 @@ function Home () {
   }, []);
 
   // effects to scroll the open category or prayer to top of screen
-  useEffect(() => {
-    if (openCategory)
-      document.querySelector('.category-accordion-item.' + openCategory)
-        ?.scrollIntoView({
-          'block': 'start',
-          'behavior': 'smooth'
-        });
-  }, [openCategory, quote]);
-
-  useEffect(() => {
-    console.log("scrolling to top?")
-    if (openPrayer) {
-      console.log("scrolling to top!" + openPrayer)
-      const item = document.querySelector('.prayer-accordion-item.' + openPrayer);
-      if (item) {
-        item.scrollIntoView({
-            'block': 'start',
-            'behavior': 'smooth'
-          });
-        console.log("scrolling to top done!" + openPrayer)
+  // the first effect is for initial rendering, delayed until page load
+  const openPrayerElement = useRef<HTMLDivElement | null>(null);
+  const openCategoryElement = useRef<HTMLDivElement | null>(null);
+  useLayoutEffect(() => 
+    window.addEventListener('load', () => {
+      if (openPrayerElement?.current) {
+        console.log("scrolling to prayer");
+        console.log(openPrayerElement);
+        openPrayerElement?.current?.scrollIntoView(true)
+      } else if (openCategoryElement?.current) {
+        console.log("scrolling to category");
+        openCategoryElement?.current?.scrollIntoView(true)
       }
-    }
-  }, [openPrayer, quote]);
-
-  // effect to increase the height of the open prayer, to fill the screen
-  useLayoutEffect(() => {
-    if (openPrayer) {
-      const item = document.querySelector('.prayer-accordion-item.' + openPrayer);
-      if (item) {
-        (item as HTMLElement).style.minHeight = window.innerHeight + 'px';
-      }
-      return () => {
-        (item as HTMLElement).style.minHeight = 'auto';
-      }
-    }
-  }, [openPrayer]);
+    })
+  , []);
+  useLayoutEffect(() => 
+      openPrayerElement?.current?.scrollIntoView(true)
+  , [openPrayerElement]);
+  useLayoutEffect(() => 
+      openCategoryElement?.current?.scrollIntoView(true)
+  , [openCategoryElement]);
 
   // callback to convert ./<presentation>.markdown => packaged markdown file
   const transformMarkdownUri = useCallback((uri: string) => markdownFiles[uri], []);
@@ -139,7 +124,6 @@ function Home () {
 
   return (
     <IonContent>
-      {console.log("Rendering for " + openCategory + "/" + openPrayer + "/" + isMobile + "/" + quote)}
       <Accordion 
         allowZeroExpanded={true} 
         className='category'
@@ -147,73 +131,88 @@ function Home () {
         onChange={setQueryState(setOpenCategory)}
         >
         {structure.categories.map((category) => (
-          <AccordionItem 
-            uuid={category.id} 
+          <div 
+            ref={category.id === openCategory
+              ? openCategoryElement
+              : null}
             key={category.id} 
-            className={'category-accordion-item ' + category.id}
             >
-            <AccordionItemHeading>
-              <AccordionItemButton 
-                className='background-span accordion-button'>
-                {category.title}
-              </AccordionItemButton>
-            </AccordionItemHeading>
-            <AccordionItemPanel style={{padding: 0}}>
-              <Accordion 
-                allowZeroExpanded={true} 
-                className='prayer'
-                preExpanded={getQueryState(openPrayer)}
-                onChange={setQueryState(setOpenPrayer)}
-                >
-                {category.prayers.map((prayer) => (
-                  <AccordionItem 
-                    uuid={prayer.id} 
-                    key={prayer.id} 
-                    className={'prayer-accordion-item ' + prayer.id}
-                    >
-                    <AccordionItemHeading>
-                      <AccordionItemButton 
-                        className='accordion-button prayer-button'>
-                        {prayer.title}
-                      </AccordionItemButton>
-                    </AccordionItemHeading>
-                    <AccordionItemPanel>
-                      <CarouselProvider
-                        infinite={true}
-                        isIntrinsicHeight={true}
-                        lockOnWindowScroll={true}
-                        naturalSlideHeight={1}
-                        naturalSlideWidth={1}
-                        totalSlides={prayer.presentations.length}
-                        visibleSlides={visibleSlides(prayer.presentations.length)}
+            <AccordionItem 
+              uuid={category.id} 
+              className={'category-accordion-item ' + category.id}
+              >
+              <AccordionItemHeading>
+                <AccordionItemButton 
+                  className='background-span accordion-button'>
+                  {category.title}
+                </AccordionItemButton>
+              </AccordionItemHeading>
+              <AccordionItemPanel style={{padding: 0}}>
+                <Accordion 
+                  allowZeroExpanded={true} 
+                  className='prayer'
+                  preExpanded={getQueryState(openPrayer)}
+                  onChange={setQueryState(setOpenPrayer)}
+                  >
+                  {category.prayers.map((prayer) => (
+                    <div 
+                      ref={prayer.id === openPrayer
+                        ? openPrayerElement
+                        : null}
+                      key={prayer.id} 
                       >
-                        <Slider>
-                          {prayer.presentations.map((presentation, index) => (
-                            <Slide index={index} key={presentation} className='slide'>
-                              <ReactMarkdownFromAsset 
-                                transformImageUri={transformImageUri} 
-                                transformMarkdownUri={transformMarkdownUri} 
-                                markdownFile={'./' + presentation + '.markdown'} 
-                                getQuote={isOpen(category.id, prayer.id, index) ? getQuote : null}
-                              />
-                            </Slide>
-                          ))}
-                        </Slider>
-                        {
-                          prayer.presentations.length > visibleSlides(prayer.presentations.length)
-                          ? <>
-                              <ButtonBack className='button-back'>🢐</ButtonBack>
-                              <ButtonNext className='button-next'>🢒</ButtonNext>
-                            </>
-                          : null
-                        }
-                      </CarouselProvider>
-                    </AccordionItemPanel>
-                  </AccordionItem>
-                ))}
-              </Accordion>
-            </AccordionItemPanel>
-          </AccordionItem>
+                      <AccordionItem 
+                        uuid={prayer.id} 
+                        className={'prayer-accordion-item ' + prayer.id}
+                        style={prayer.id === openPrayer 
+                          ? {minHeight: window.innerHeight}
+                          : {minHeight: 'auto'}}
+                        >
+                        <AccordionItemHeading>
+                          <AccordionItemButton 
+                            className='accordion-button prayer-button'>
+                            {prayer.title}
+                          </AccordionItemButton>
+                        </AccordionItemHeading>
+                        <AccordionItemPanel>
+                          <CarouselProvider
+                            infinite={true}
+                            isIntrinsicHeight={true}
+                            lockOnWindowScroll={true}
+                            naturalSlideHeight={1}
+                            naturalSlideWidth={1}
+                            totalSlides={prayer.presentations.length}
+                            visibleSlides={visibleSlides(prayer.presentations.length)}
+                          >
+                            <Slider>
+                              {prayer.presentations.map((presentation, index) => (
+                                <Slide index={index} key={presentation} className='slide'>
+                                  <ReactMarkdownFromAsset 
+                                    transformImageUri={transformImageUri} 
+                                    transformMarkdownUri={transformMarkdownUri} 
+                                    markdownFile={'./' + presentation + '.markdown'} 
+                                    getQuote={isOpen(category.id, prayer.id, index) ? getQuote : null}
+                                  />
+                                </Slide>
+                              ))}
+                            </Slider>
+                            {
+                              prayer.presentations.length > visibleSlides(prayer.presentations.length)
+                              ? <>
+                                  <ButtonBack className='button-back'>🢐</ButtonBack>
+                                  <ButtonNext className='button-next'>🢒</ButtonNext>
+                                </>
+                              : null
+                            }
+                          </CarouselProvider>
+                        </AccordionItemPanel>
+                      </AccordionItem>
+                    </div>
+                  ))}
+                </Accordion>
+              </AccordionItemPanel>
+            </AccordionItem>
+          </div>
         ))}
       </Accordion>
       <IonButton expand='full' color='primary' href='mailto:info@gelovenleren.net'>MAIL</IonButton>

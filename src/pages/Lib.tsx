@@ -56,7 +56,8 @@ export const fitLayout = (bgImage: any) => {
         bodyH = rowCount * rowH;
     }
     // calculate the fontsize
-    let fontS = 14 / 48 * rowH;
+    // (580 being an arbitray width that fits the longest title)
+    let fontS = 14 / 48 * rowH * Math.min(bodyW, 580) / 580;
     // calculate the size and offset of the image
     let categories = document.getElementsByClassName('background-span') as HTMLCollectionOf<HTMLElement>;
     for (let i=0; i<categories.length; i++) {
