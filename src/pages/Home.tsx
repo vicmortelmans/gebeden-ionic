@@ -68,21 +68,18 @@ function Home () {
   useLayoutEffect(() => 
     window.addEventListener('load', () => {
       if (openPrayerElement?.current) {
-        console.log("scrolling to prayer");
-        console.log(openPrayerElement);
         openPrayerElement?.current?.scrollIntoView(true)
       } else if (openCategoryElement?.current) {
-        console.log("scrolling to category");
         openCategoryElement?.current?.scrollIntoView(true)
       }
     })
   , []);
   useLayoutEffect(() => 
       openPrayerElement?.current?.scrollIntoView(true)
-  , [openPrayerElement]);
+  , [openPrayer]);
   useLayoutEffect(() => 
       openCategoryElement?.current?.scrollIntoView(true)
-  , [openCategoryElement]);
+  , [openCategory]);
 
   // callback to convert ./<presentation>.markdown => packaged markdown file
   const transformMarkdownUri = useCallback((uri: string) => markdownFiles[uri], []);

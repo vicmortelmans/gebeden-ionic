@@ -22,7 +22,7 @@ body {
 
 .button-back, .button-next {
   background-color: transparent;
-  color: #727272;
+  color: var(--ion-color-light-contrast);
   height: 100%;
   position: absolute;
   top: 0px;
