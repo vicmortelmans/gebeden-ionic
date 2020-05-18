@@ -196,8 +196,8 @@ function Home () {
                             {
                               prayer.presentations.length > visibleSlides(prayer.presentations.length)
                               ? <>
-                                  <ButtonBack className='button-back'>🢐</ButtonBack>
-                                  <ButtonNext className='button-next'>🢒</ButtonNext>
+                                  <ButtonBack className='button-back'>&lt;</ButtonBack>
+                                  <ButtonNext className='button-next'>&gt;</ButtonNext>
                                 </>
                               : null
                             }
@@ -222,10 +222,10 @@ function Home () {
           <IonIcon icon={shareSocial}/>
         </IonFabButton>
         <IonFabList side='top'>
-          <FacebookShareButton url={window.location.href} quote={quote}>
+          <FacebookShareButton url={'https://gebeden.gelovenleren.net' + window.location.pathname + window.location.search} quote={quote}>
             <FacebookIcon size={56} round={true}/>
           </FacebookShareButton>
-          <TwitterShareButton url={window.location.href} title={truncate(quote, 280 - 23)}>
+          <TwitterShareButton url={'https://gebeden.gelovenleren.net' + window.location.pathname + window.location.search} title={truncate(quote, 280 - 27)}>
             <TwitterIcon size={56} round={true}/>
           </TwitterShareButton>
         </IonFabList>
