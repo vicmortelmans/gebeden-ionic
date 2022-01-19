@@ -14,6 +14,10 @@ import { BrowserView } from "react-device-detect";
 import { importAll, fitLayout, randomBackground, truncate } from './Lib'
 import structure from '../data/structure.json'
 import './Home.css';
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-YTDWTXSX9M");
+ReactGA.send("pageview");
 
 // create a dictionary of packaged markdownfiles, by './<source filename>'
 const markdownFiles: {[key: string]: string} = {};
