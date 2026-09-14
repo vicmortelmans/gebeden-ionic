@@ -1,1 +1,0 @@
-![](./kruisteken.jpg)

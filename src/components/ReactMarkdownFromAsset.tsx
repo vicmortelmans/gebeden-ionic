@@ -32,10 +32,10 @@ const ReactMarkdownFromAsset = React.memo((props: any) => {
     <>
       {markdown && 
           <ReactMarkdown 
-            transformImageUri={props.transformImageUri} 
-            source={markdown} 
-            escapeHtml={false}
-          />
+            transformImageUri={props.transformImageUri}
+          >
+            {markdown}
+          </ReactMarkdown>
       }
     </>
   )

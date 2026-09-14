@@ -8,12 +8,10 @@ import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, Ac
 import './Accordion.css';
 import { useMediaQuery } from 'react-responsive'; 
 import { useQueryState } from 'react-router-use-location-state';
-import { FacebookShareButton, TwitterShareButton } from "react-share";
-import { FacebookIcon, TwitterIcon } from "react-share";
-import { BrowserView } from "react-device-detect";
 import { importAll, fitLayout, randomBackground, truncate } from './Lib'
 import structure from '../data/structure.json'
 import './Home.css';
+import { BrowserView } from "react-device-detect";
 import ReactGA from "react-ga4";
 
 ReactGA.initialize("G-YTDWTXSX9M");
@@ -35,6 +33,19 @@ importAll(
 
 // pick a random background image
 const bgImage = randomBackground();
+
+const currentShareUrl = () => `https://gebeden.gelovenleren.net${window.location.pathname}${window.location.search}`;
+
+const socialShareLinks = (quoteText: string) => {
+  const text = truncate(quoteText || 'Gebeden', 280 - 27);
+  const url = encodeURIComponent(currentShareUrl());
+  const shareText = encodeURIComponent(text);
+
+  return {
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${url}`,
+    twitter: `https://twitter.com/intent/tweet?text=${shareText}&url=${url}`,
+  };
+};
 
 function Home () {
 
@@ -108,20 +119,22 @@ function Home () {
   }, []);
 
   // callback provided to ReactMarkdownFromAsset, so it can provide the plain text for the open prayer
-  const getQuote = useCallback((content) => {
+  const getQuote = useCallback((content: string) => {
     setQuote(content);
   }, []);
   
   // callback to decide if ReactMarkdownFromAsset should run getQuote()
-  const isOpen = useCallback((categoryId, prayerId, index) => {
+  const isOpen = useCallback((categoryId: string, prayerId: string, index: number) => {
     const isOpen = categoryId === openCategory && prayerId === openPrayer && index === 0;
     return isOpen; 
   }, [openCategory, openPrayer]);
   
   // callback to calculate if more than one slide can be displayed in the carousel
-  const visibleSlides = useCallback((numberOfSlides) => {
+  const visibleSlides = useCallback((numberOfSlides: number) => {
     return isMobile ? 1 : Math.min(2, numberOfSlides);
   }, [isMobile]);
+
+  const shareLinks = socialShareLinks(quote);
 
   return (
     <IonContent>
@@ -226,12 +239,50 @@ function Home () {
           <IonIcon icon={shareSocial}/>
         </IonFabButton>
         <IonFabList side='top'>
-          <FacebookShareButton url={'https://gebeden.gelovenleren.net' + window.location.pathname + window.location.search} quote={quote}>
-            <FacebookIcon size={56} round={true}/>
-          </FacebookShareButton>
-          <TwitterShareButton url={'https://gebeden.gelovenleren.net' + window.location.pathname + window.location.search} title={truncate(quote, 280 - 27)}>
-            <TwitterIcon size={56} round={true}/>
-          </TwitterShareButton>
+          <a
+            href={shareLinks.facebook}
+            target='_blank'
+            rel='noreferrer'
+            aria-label='Share on Facebook'
+            style={{
+              display: 'inline-flex',
+              width: '56px',
+              height: '56px',
+              borderRadius: '50%',
+              background: '#1877F2',
+              color: '#fff',
+              alignItems: 'center',
+              justifyContent: 'center',
+              textDecoration: 'none',
+              margin: '4px',
+              fontWeight: 700,
+              fontSize: '28px',
+            }}
+          >
+            f
+          </a>
+          <a
+            href={shareLinks.twitter}
+            target='_blank'
+            rel='noreferrer'
+            aria-label='Share on Twitter'
+            style={{
+              display: 'inline-flex',
+              width: '56px',
+              height: '56px',
+              borderRadius: '50%',
+              background: '#1DA1F2',
+              color: '#fff',
+              alignItems: 'center',
+              justifyContent: 'center',
+              textDecoration: 'none',
+              margin: '4px',
+              fontWeight: 700,
+              fontSize: '26px',
+            }}
+          >
+            X
+          </a>
         </IonFabList>
       </IonFab>
     </IonContent>
