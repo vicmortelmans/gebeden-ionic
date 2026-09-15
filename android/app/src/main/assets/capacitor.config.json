@@ -1,9 +1,9 @@
 {
-  "appId": "net.gelovenleren.gebeden",
-  "appName": "Katholieke Gebeden",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build",
-  "cordova": {},
-  "linuxAndroidStudioPath": "/home/vic/Programs/android-studio/bin/studio.sh"
+	"appId": "net.gelovenleren.gebeden",
+	"appName": "Katholieke Gebeden",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {},
+	"linuxAndroidStudioPath": "/home/vic/Programs/android-studio/bin/studio.sh"
 }
