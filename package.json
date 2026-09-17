@@ -37,6 +37,7 @@
     "react-router-dom": "5.3.4",
     "react-router-use-location-state": "2.3.1",
     "react-share": "^4.4.1",
+    "rehype-raw": "^6.1.1",
     "remove-markdown": "^0.5.0",
     "typescript": "^5.0.2"
   },

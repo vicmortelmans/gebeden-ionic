@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './ReactMarkdownFromAsset.css';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 const removeMd = require('remove-markdown');
 
 const ReactMarkdownFromAsset = React.memo((props: any) => {
@@ -33,6 +34,7 @@ const ReactMarkdownFromAsset = React.memo((props: any) => {
       {markdown && 
           <ReactMarkdown 
             transformImageUri={props.transformImageUri}
+            rehypePlugins={[rehypeRaw]}
           >
             {markdown}
           </ReactMarkdown>
