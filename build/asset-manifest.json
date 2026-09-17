@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.472b9c96.css",
-    "main.js": "/static/js/main.82a3da50.js",
+    "main.css": "/static/css/main.62037a06.css",
+    "main.js": "/static/js/main.d40bc4d1.js",
     "static/js/9067.83c090dd.chunk.js": "/static/js/9067.83c090dd.chunk.js",
     "static/js/3260.e4d8d7f3.chunk.js": "/static/js/3260.e4d8d7f3.chunk.js",
     "static/js/1133.d82127b7.chunk.js": "/static/js/1133.d82127b7.chunk.js",
@@ -423,8 +423,8 @@
     "static/media/credo-vii.markdown": "/static/media/credo-vii.1c15301679c8124a7614.markdown",
     "static/media/introibo-score.markdown": "/static/media/introibo-score.462f34299f77bf5a2a12.markdown",
     "static/media/kruisteken-score.markdown": "/static/media/kruisteken-score.ba888cdaa8371a945ce5.markdown",
-    "main.472b9c96.css.map": "/static/css/main.472b9c96.css.map",
-    "main.82a3da50.js.map": "/static/js/main.82a3da50.js.map",
+    "main.62037a06.css.map": "/static/css/main.62037a06.css.map",
+    "main.d40bc4d1.js.map": "/static/js/main.d40bc4d1.js.map",
     "9067.83c090dd.chunk.js.map": "/static/js/9067.83c090dd.chunk.js.map",
     "3260.e4d8d7f3.chunk.js.map": "/static/js/3260.e4d8d7f3.chunk.js.map",
     "1133.d82127b7.chunk.js.map": "/static/js/1133.d82127b7.chunk.js.map",
@@ -533,7 +533,7 @@
     "6025.324319aa.chunk.js.map": "/static/js/6025.324319aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.472b9c96.css",
-    "static/js/main.82a3da50.js"
+    "static/css/main.62037a06.css",
+    "static/js/main.d40bc4d1.js"
   ]
 }
