@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://gebeden.gelovenleren.net/",
   "dependencies": {
-    "@capacitor/android": "2.5.0",
-    "@capacitor/core": "2.5.0",
+    "@capacitor/android": "6.2.2",
+    "@capacitor/core": "6.2.2",
     "@ionic/cli": "^7.0.0",
     "@ionic/pwa-elements": "^3.2.0",
     "@ionic/react": "^7.4.0",
@@ -64,9 +64,10 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.5.0",
+    "@capacitor/cli": "6.2.2",
     "@types/webpack-env": "1.18.1",
     "gh-pages": "^5.0.0",
+    "playwright": "^1.54.2",
     "react-scripts": "5.0.1"
   },
   "description": "An Ionic project"

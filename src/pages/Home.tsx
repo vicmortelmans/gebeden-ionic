@@ -1,4 +1,5 @@
-import React, { useEffect, useLayoutEffect, useState, useRef, useCallback } from 'react'; 
+import React, { useEffect, useLayoutEffect, useState, useRef, useCallback, useMemo } from 'react';
+import { useHistory, useLocation } from 'react-router-dom';
 import { IonContent, IonButton, IonFab, IonFabButton, IonIcon, IonFabList } from '@ionic/react';
 import { shareSocial } from 'ionicons/icons';
 import ReactMarkdownFromAsset from '../components/ReactMarkdownFromAsset'
@@ -7,13 +8,13 @@ import 'pure-react-carousel/dist/react-carousel.es.css';
 import { Accordion, AccordionItem, AccordionItemHeading, AccordionItemButton, AccordionItemPanel, } from 'react-accessible-accordion';
 import './Accordion.css';
 import { useMediaQuery } from 'react-responsive'; 
-import { useQueryState } from 'react-router-use-location-state';
 import { importAll, fitLayout, randomBackground, truncate } from './Lib'
 import structure from '../data/structure.json'
 import './Home.css';
 import { BrowserView } from "react-device-detect";
 import ReactGA from "react-ga4";
 
+// GA4 initialization
 ReactGA.initialize("G-YTDWTXSX9M");
 ReactGA.send("pageview");
 
@@ -48,19 +49,61 @@ const socialShareLinks = (quoteText: string) => {
 };
 
 function Home () {
+  const history = useHistory();
+  const location = useLocation();
 
   // state isMobile can be used to check if more than one carousel items
   // will fit the window width
   const isMobile = useMediaQuery({ query: '(max-width: 800px)' });
 
-  // state openCategory and openPrayer contain the id from structure.json
-  // and is synchronised with URL query string
-  const [openCategory, setOpenCategory] = useQueryState<string>('category', '');
-  const [openPrayer, setOpenPrayer] = useQueryState<string>('prayer', '');
-
   // state quote contains the current prayer in plain text 
   // (only the first item in carousel)
   const [quote, setQuote] = useState('');
+
+  // Derived state from URL - Single Source of Truth
+  const { openCategory, openPrayer } = useMemo(() => {
+    const params = new URLSearchParams(location.search || '');
+    return {
+      openCategory: params.get('category') ?? '',
+      openPrayer: params.get('prayer') ?? ''
+    };
+  }, [location.search]);
+
+  const updateQueryState = useCallback((name: string, value: string) => {
+    try {
+      const params = new URLSearchParams(location.search || '');
+      if (value) {
+        params.set(name, value);
+      } else {
+        params.delete(name);
+      }
+      const query = params.toString();
+
+      // Defer the update to avoid conflicts with accordion DOM manipulation
+      setTimeout(() => {
+        try {
+          history.replace({
+            search: query ? `?${query}` : ''
+          });
+        } catch (e) {
+          console.error('history.replace error:', e);
+        }
+      }, 0);
+    } catch (e) {
+      console.error('updateQueryState error:', e);
+    }
+  }, [history, location.search]);
+
+  // Stable handlers for Accordion
+  const handleCategoryChange = useCallback((accordionUuids: Array<string | number> | undefined) => {
+    const nextValue = accordionUuids && accordionUuids.length ? String(accordionUuids[0]) : '';
+    updateQueryState('category', nextValue);
+  }, [updateQueryState]);
+
+  const handlePrayerChange = useCallback((accordionUuids: Array<string | number> | undefined) => {
+    const nextValue = accordionUuids && accordionUuids.length ? String(accordionUuids[0]) : '';
+    updateQueryState('prayer', nextValue);
+  }, [updateQueryState]);
 
   // effect to setup event handler for window resize
   // is only run once
@@ -102,13 +145,6 @@ function Home () {
   // callback to convert <imagefile> (as used inside markdown) => packaged image file
   const transformImageUri = useCallback((uri: string) => imageFiles[uri], []);
 
-  // callback to call setOpenCategory or setOpenPrayer upon navigation
-  const setQueryState = useCallback((queryStateSetter: Function) => {
-    return (accordionUuids: [string]) => {
-      queryStateSetter(accordionUuids.length ? accordionUuids[0] : '')  // adding {method: 'push'} not working due to limitation of preExapnded prop
-    }
-  }, []);
-
   // callback to convert openCategory or openPrayer to [] if empty
   // this is the way the accordion wants the preExpanded prop to be 
   // note: the preExpanded prop is only read on initial rendering, so
@@ -142,7 +178,7 @@ function Home () {
         allowZeroExpanded={true} 
         className='category'
         preExpanded={getQueryState(openCategory)}
-        onChange={setQueryState(setOpenCategory)}
+        onChange={handleCategoryChange}
         >
         {structure.categories.map((category) => (
           <div 
@@ -166,7 +202,7 @@ function Home () {
                   allowZeroExpanded={true} 
                   className='prayer'
                   preExpanded={getQueryState(openPrayer)}
-                  onChange={setQueryState(setOpenPrayer)}
+                  onChange={handlePrayerChange}
                   >
                   {category.prayers.map((prayer) => (
                     <div 

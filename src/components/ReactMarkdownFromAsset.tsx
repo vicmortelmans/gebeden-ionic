@@ -22,7 +22,7 @@ const ReactMarkdownFromAsset = React.memo((props: any) => {
 
   // effect to return the plain text markdown to the parent, if requested
   useEffect(() => {
-    if (props.getQuote) {
+    if (props.getQuote && typeof props.getQuote === 'function') {
       let quote = removeMd(markdown);
       props.getQuote(quote);
     }
