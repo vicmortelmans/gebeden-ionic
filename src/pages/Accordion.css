@@ -12,13 +12,28 @@
     border-bottom: 1px solid var(--ion-color-light-shade);
 }
 
+/* Remove default disclosure triangle across browsers */
+details > summary {
+    list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+details > summary::marker {
+    display: none;
+}
+
 .accordion-button {
     cursor: pointer;
+    display: block;
     font-weight: bold;
     outline: none;
     overflow: hidden;
     padding-left: 20px;
     width: 100%;
+    user-select: none;
 }
 
 .prayer-button {
@@ -28,6 +43,7 @@
     line-height: 48px;
 }
 
+.accordion-button:hover,
 .accordion__button:hover {
     background-color: #ddd;
 }
